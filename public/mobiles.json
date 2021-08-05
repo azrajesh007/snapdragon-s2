@@ -1,0 +1,6150 @@
+[{
+		"make": "Apple;",
+		"model": "iPhone 5"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 5C"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 5S"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 6"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 6 Plus"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 6S"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 6S Plus"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 7"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 7 Plus"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone SE"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 4S"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 8"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 8 Plus"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone X"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone XS"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone XS Max"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone XR"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 11"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 11 Pro"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 11 Pro Max"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone SE (2020)"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 12 "
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 12 Mini"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 12 Pro"
+	},
+	{
+		"make": "Apple;",
+		"model": "iPhone 12 Pro Max"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone 2 Laser ZE550KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone 3 Laser ZC551KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone 3 Max ZC520TL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone 3 Max ZC553KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone 3S Max ZC521TL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone Go ZB500KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone Go ZB551KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone Max ZC550KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone Go ZB552KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone Selfie ZD551KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone Live ZB501KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone 3 ZE552KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone AR ZS571KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone 4 Selfie Pro ZD552KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone 4 Selfie ZD553KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone Zoom S ZE553KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone 3 ZE520KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone 4 Selfie DC ZD553KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone 4 Selfie ZB553KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone Max Pro M1 ZB601KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone 5z ZS621KL"
+	},
+	{
+		"make": "Asus",
+		"model": "Zenfone Lite L1"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone Max M1 ZB556KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ROG ZS602KL"
+	},
+	{
+		"make": "Asus",
+		"model": "Zenfone Max M2"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone Lite L1 ZA551KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone Max M2 ZB632KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone Max Pro M2 ZB630KL"
+	},
+	{
+		"make": "Asus",
+		"model": "Zenfone 6 ZS630KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ROG Phone II ZS660KL"
+	},
+	{
+		"make": "Asus",
+		"model": "6Z S630KL"
+	},
+	{
+		"make": "Asus",
+		"model": "ROG Phone 3 ZS661KS"
+	},
+	{
+		"make": "Asus",
+		"model": "ZenFone 5Z ZS621KL "
+	},
+	{
+		"make": "Benco",
+		"model": "E10"
+	},
+	{
+		"make": "Benco",
+		"model": "P21"
+	},
+	{
+		"make": "Benco",
+		"model": "C23"
+	},
+	{
+		"make": "Black Shark",
+		"model": "2"
+	},
+	{
+		"make": "Blackzone",
+		"model": "Eco X"
+	},
+	{
+		"make": "Blackzone",
+		"model": "M4"
+	},
+	{
+		"make": "Blackzone",
+		"model": "Neo 8110"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Cool 1"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Mega 3"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Note 5"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Note 5 Lite"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Note 3s"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Cool Play 6"
+	},
+	{
+		"make": "Coolpad",
+		"model": "A8"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Fancy 3"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Mega 2.5D"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Note 5 Lite C"
+	},
+	{
+		"make": "Coolpad",
+		"model": "E2C"
+	},
+	{
+		"make": "Coolpad",
+		"model": "N2M"
+	},
+	{
+		"make": "Coolpad",
+		"model": "N1"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Max A8"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Mega 5A"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Note 8"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Mega 5"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Mega 5C"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Mega 5M"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Cool 3 Plus"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Cool 5"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Cool 3"
+	},
+	{
+		"make": "Coolpad",
+		"model": "Cool 6"
+	},
+	{
+		"make": "Easyfone",
+		"model": "Royale"
+	},
+	{
+		"make": "Easyfone",
+		"model": "S mafe-3"
+	},
+	{
+		"make": "Easyfone",
+		"model": "Marvel"
+	},
+	{
+		"make": "Ecotel",
+		"model": "E14"
+	},
+	{
+		"make": "El",
+		"model": "K20"
+	},
+	{
+		"make": "Energizer",
+		"model": "Energy 100"
+	},
+	{
+		"make": "Energizer",
+		"model": "Energy E20"
+	},
+	{
+		"make": "Energizer",
+		"model": "Powermax P20"
+	},
+	{
+		"make": "Gamma",
+		"model": "K28"
+	},
+	{
+		"make": "Gamma",
+		"model": "K1 Nano"
+	},
+	{
+		"make": "Gamma",
+		"model": "K5 Mini"
+	},
+	{
+		"make": "Gamma",
+		"model": "K2 Nano"
+	},
+	{
+		"make": "Gionee",
+		"model": "Elife S6"
+	},
+	{
+		"make": "Gionee",
+		"model": "F103"
+	},
+	{
+		"make": "Gionee",
+		"model": "F103 Pro"
+	},
+	{
+		"make": "Gionee",
+		"model": "Marathon M5 Lite"
+	},
+	{
+		"make": "Gionee",
+		"model": "Pioneer P5L"
+	},
+	{
+		"make": "Gionee",
+		"model": "Pioneer P7"
+	},
+	{
+		"make": "Gionee",
+		"model": "Pioneer P5W"
+	},
+	{
+		"make": "Gionee",
+		"model": "S Plus"
+	},
+	{
+		"make": "Gionee",
+		"model": "S6 Pro"
+	},
+	{
+		"make": "Gionee",
+		"model": "S6s"
+	},
+	{
+		"make": "Gionee",
+		"model": "A1"
+	},
+	{
+		"make": "Gionee",
+		"model": "Pioneer P5 Mini"
+	},
+	{
+		"make": "Gionee",
+		"model": "Pioneer P7 Max"
+	},
+	{
+		"make": "Gionee",
+		"model": "A1 Lite"
+	},
+	{
+		"make": "Gionee",
+		"model": "A1 Plus"
+	},
+	{
+		"make": "Gionee",
+		"model": "X1"
+	},
+	{
+		"make": "Gionee",
+		"model": "X1S"
+	},
+	{
+		"make": "Gionee",
+		"model": "M5 Plus"
+	},
+	{
+		"make": "Gionee",
+		"model": "M7 Power"
+	},
+	{
+		"make": "Gionee",
+		"model": "M7"
+	},
+	{
+		"make": "Gionee",
+		"model": "S10 Lite"
+	},
+	{
+		"make": "Gionee",
+		"model": "F205"
+	},
+	{
+		"make": "Gionee",
+		"model": "S11 Lite"
+	},
+	{
+		"make": "Gionee",
+		"model": "F9 Plus"
+	},
+	{
+		"make": "Gionee",
+		"model": "F10"
+	},
+	{
+		"make": "Gionee",
+		"model": "F9"
+	},
+	{
+		"make": "Gionee",
+		"model": "F205 Pro"
+	},
+	{
+		"make": "Gionee",
+		"model": "P7 Max"
+	},
+	{
+		"make": "Gionee",
+		"model": "F8 Neo"
+	},
+	{
+		"make": "Gionee",
+		"model": "Max"
+	},
+	{
+		"make": "Giva",
+		"model": "G2"
+	},
+	{
+		"make": "Giva",
+		"model": "G1"
+	},
+	{
+		"make": "Giva",
+		"model": "G4"
+	},
+	{
+		"make": "Google",
+		"model": "Pixel"
+	},
+	{
+		"make": "Google",
+		"model": "Pixel XL"
+	},
+	{
+		"make": "Google",
+		"model": "Pixel 2"
+	},
+	{
+		"make": "Google",
+		"model": "Pixel 2 XL"
+	},
+	{
+		"make": "Google",
+		"model": "Pixel 3"
+	},
+	{
+		"make": "Google",
+		"model": "Pixel 3 XL"
+	},
+	{
+		"make": "Google",
+		"model": "Pixel 3a"
+	},
+	{
+		"make": "Google",
+		"model": "Pixel 3a XL"
+	},
+	{
+		"make": "Google",
+		"model": "Pixel 4a "
+	},
+	{
+		"make": "Google",
+		"model": "Pixel 3a "
+	},
+	{
+		"make": "Grabo",
+		"model": "Neo 1.8"
+	},
+	{
+		"make": "Grabo",
+		"model": "Nord"
+	},
+	{
+		"make": "Grabo",
+		"model": "Eco"
+	},
+	{
+		"make": "Grabo",
+		"model": "Eluga"
+	},
+	{
+		"make": "Grabo",
+		"model": "Vido"
+	},
+	{
+		"make": "Grabo",
+		"model": "G100"
+	},
+	{
+		"make": "Grabo",
+		"model": "G310"
+	},
+	{
+		"make": "Grabo",
+		"model": "Pro"
+	},
+	{
+		"make": "Hicell",
+		"model": "C1 Tiger"
+	},
+	{
+		"make": "Hicell",
+		"model": "C9 Metro"
+	},
+	{
+		"make": "Hotline",
+		"model": "H1200"
+	},
+	{
+		"make": "Hotline",
+		"model": "Amaze H01"
+	},
+	{
+		"make": "Hotline",
+		"model": "Amaze H24"
+	},
+	{
+		"make": "Hotline",
+		"model": "Amaze H310"
+	},
+	{
+		"make": "Hotline",
+		"model": "Amaze H312"
+	},
+	{
+		"make": "HTC",
+		"model": "10 Evo"
+	},
+	{
+		"make": "HTC",
+		"model": "Desire 10 Pro"
+	},
+	{
+		"make": "HTC",
+		"model": "Desire 626"
+	},
+	{
+		"make": "HTC",
+		"model": "Desire 628 DS"
+	},
+	{
+		"make": "HTC",
+		"model": "Desire 728 DS"
+	},
+	{
+		"make": "HTC",
+		"model": "Desire 828 DS"
+	},
+	{
+		"make": "HTC",
+		"model": "U Ultra"
+	},
+	{
+		"make": "HTC",
+		"model": "Desire 626G Plus"
+	},
+	{
+		"make": "HTC",
+		"model": "U Play"
+	},
+	{
+		"make": "HTC",
+		"model": "U11"
+	},
+	{
+		"make": "HTC",
+		"model": "U11 Plus"
+	},
+	{
+		"make": "HTC",
+		"model": "Desire 12"
+	},
+	{
+		"make": "HTC",
+		"model": "Desire 12 Plus"
+	},
+	{
+		"make": "HTC",
+		"model": "Wildfire X"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 6X"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor Bee 4G"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor Holly 2 Plus"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor Holly 3"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 5C"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 5X"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 8"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 8 Lite"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor Bee 2"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 8 Pro"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 4C"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 8 Smart"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor Holly 4"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 9i"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor Holly 4 Plus"
+	},
+	{
+		"make": "Huawei",
+		"model": "Mate 9"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 7X"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 9 Lite"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor View 10"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 7A"
+	},
+	{
+		"make": "Huawei",
+		"model": "P9 Plus"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 7C"
+	},
+	{
+		"make": "Huawei",
+		"model": "P20 Lite"
+	},
+	{
+		"make": "Huawei",
+		"model": "P20 Pro"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 10 Dual"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 9N"
+	},
+	{
+		"make": "Huawei",
+		"model": "Nova 3"
+	},
+	{
+		"make": "Huawei",
+		"model": "Nova 3i"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor Play"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 7S"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 8X"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 8C"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 10 Lite"
+	},
+	{
+		"make": "Huawei",
+		"model": "Mate 20 Pro"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 20i"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 9X"
+	},
+	{
+		"make": "Huawei",
+		"model": "Y9 prime 2019"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 20"
+	},
+	{
+		"make": "Huawei",
+		"model": "P30 Pro"
+	},
+	{
+		"make": "Huawei",
+		"model": "P30 Lite"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor View 20"
+	},
+	{
+		"make": "Huawei",
+		"model": "Y9 (2019)"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 9A"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 9S"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 9X Pro"
+	},
+	{
+		"make": "Huawei",
+		"model": "Y9s"
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 9X Pro "
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 9X "
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 8C "
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 9N "
+	},
+	{
+		"make": "Huawei",
+		"model": "Honor 9i "
+	},
+	{
+		"make": "I Plus",
+		"model": " I-4"
+	},
+	{
+		"make": "I Plus",
+		"model": " I-7"
+	},
+	{
+		"make": "I Plus",
+		"model": " I-5"
+	},
+	{
+		"make": "I Plus",
+		"model": " I-6"
+	},
+	{
+		"make": "iAir Mobiles",
+		"model": "D11"
+	},
+	{
+		"make": "iAir Mobiles",
+		"model": "S7"
+	},
+	{
+		"make": "iAir Mobiles",
+		"model": "S8"
+	},
+	{
+		"make": "iAir Mobiles",
+		"model": "D1"
+	},
+	{
+		"make": "iAir Mobiles",
+		"model": "D4"
+	},
+	{
+		"make": "iAir Mobiles",
+		"model": "D5"
+	},
+	{
+		"make": "iAir Mobiles",
+		"model": "D7"
+	},
+	{
+		"make": "iAir Mobiles",
+		"model": "X2"
+	},
+	{
+		"make": "iAir Mobiles",
+		"model": "X3"
+	},
+	{
+		"make": "iAir Mobiles",
+		"model": "X8"
+	},
+	{
+		"make": "iAir Mobiles",
+		"model": "D12"
+	},
+	{
+		"make": "iAir Mobiles",
+		"model": "S6"
+	},
+	{
+		"make": "iAir Mobiles",
+		"model": "D2"
+	},
+	{
+		"make": "iAir Mobiles",
+		"model": "S3"
+	},
+	{
+		"make": "iAir Mobiles",
+		"model": "S4"
+	},
+	{
+		"make": "iAir Mobiles",
+		"model": "D6"
+	},
+	{
+		"make": "Infinix",
+		"model": "Hot 4 Pro X5511B"
+	},
+	{
+		"make": "Infinix",
+		"model": "Note 4 X572"
+	},
+	{
+		"make": "Infinix",
+		"model": "Zero 5 X603"
+	},
+	{
+		"make": "Infinix",
+		"model": "Hot S3 X573"
+	},
+	{
+		"make": "Infinix",
+		"model": "Zero 5 Pro X603"
+	},
+	{
+		"make": "Infinix",
+		"model": "Hot 6 Pro X608"
+	},
+	{
+		"make": "Infinix",
+		"model": "Hot 6 Pro"
+	},
+	{
+		"make": "Infinix",
+		"model": "Note 5 pro"
+	},
+	{
+		"make": "Infinix",
+		"model": "Note 5 stylus X605"
+	},
+	{
+		"make": "Infinix",
+		"model": "Hot S3X X622"
+	},
+	{
+		"make": "Infinix",
+		"model": "Note 5 X604"
+	},
+	{
+		"make": "Infinix",
+		"model": "Smart 2"
+	},
+	{
+		"make": "Infinix",
+		"model": "S4 X626"
+	},
+	{
+		"make": "Infinix",
+		"model": "Hot 8 X650C"
+	},
+	{
+		"make": "Infinix",
+		"model": "Smart 2 2GB X5515F"
+	},
+	{
+		"make": "Infinix",
+		"model": "Smart 2 3GB X5515F"
+	},
+	{
+		"make": "Infinix",
+		"model": "Smart 3 Plus X627V"
+	},
+	{
+		"make": "Infinix",
+		"model": "Hot 7 X625C"
+	},
+	{
+		"make": "Infinix",
+		"model": "Hot 7 Pro X625D"
+	},
+	{
+		"make": "Infinix",
+		"model": "S5 Lite X652"
+	},
+	{
+		"make": "Infinix",
+		"model": "S5 X652B"
+	},
+	{
+		"make": "Infinix",
+		"model": "Hot 9 Pro X655F"
+	},
+	{
+		"make": "Infinix",
+		"model": "Hot 9 X655D"
+	},
+	{
+		"make": "Infinix",
+		"model": "S5 Pro X660"
+	},
+	{
+		"make": "Infinix",
+		"model": "Smart 4 Plus X680D"
+	},
+	{
+		"make": "Infinix",
+		"model": "Smart 2 X5515F"
+	},
+	{
+		"make": "Infinix",
+		"model": "Note 7"
+	},
+	{
+		"make": "Infinix",
+		"model": "Hot 10 X682C"
+	},
+	{
+		"make": "Infinix",
+		"model": "Note 7 X690"
+	},
+	{
+		"make": "Infinix",
+		"model": "Smart 4 X653"
+	},
+	{
+		"make": "Infinix",
+		"model": "Note 5 X604 "
+	},
+	{
+		"make": "InFocus",
+		"model": "Turbo 5"
+	},
+	{
+		"make": "InFocus",
+		"model": "A1 (M500)"
+	},
+	{
+		"make": "InFocus",
+		"model": "Epic 1"
+	},
+	{
+		"make": "InFocus",
+		"model": "A1s"
+	},
+	{
+		"make": "InFocus",
+		"model": "Snap 4"
+	},
+	{
+		"make": "InFocus",
+		"model": "Turbo 5 Plus"
+	},
+	{
+		"make": "InFocus",
+		"model": "A3 (IF9007)"
+	},
+	{
+		"make": "InFocus",
+		"model": "Vision 3"
+	},
+	{
+		"make": "InFocus",
+		"model": "A2 (IF9035)"
+	},
+	{
+		"make": "InFocus",
+		"model": "M5s"
+	},
+	{
+		"make": "InFocus",
+		"model": "Vision 3 Pro"
+	},
+	{
+		"make": "InFocus",
+		"model": "M812i"
+	},
+	{
+		"make": "Infocus",
+		"model": "Hero 1"
+	},
+	{
+		"make": "Infocus",
+		"model": "Power 1 IF9059"
+	},
+	{
+		"make": "Infocus",
+		"model": "Power 2 IF9060"
+	},
+	{
+		"make": "Infocus",
+		"model": "Vibe Plus IF9063"
+	},
+	{
+		"make": "InFocus",
+		"model": "Vibe 3 F9061"
+	},
+	{
+		"make": "Infocus",
+		"model": "Vibe 1"
+	},
+	{
+		"make": "Infocus",
+		"model": "Star"
+	},
+	{
+		"make": "iQOO",
+		"model": "3"
+	},
+	{
+		"make": "itel",
+		"model": "It1407"
+	},
+	{
+		"make": "itel",
+		"model": "PowerPro It1516 Plus"
+	},
+	{
+		"make": "itel",
+		"model": "SelfiePro It1518"
+	},
+	{
+		"make": "itel",
+		"model": "SelfiePro It1520"
+	},
+	{
+		"make": "itel",
+		"model": "Wish It1508"
+	},
+	{
+		"make": "itel",
+		"model": "Wish It1508 Plus"
+	},
+	{
+		"make": "itel",
+		"model": "It1409"
+	},
+	{
+		"make": "itel",
+		"model": "It1512"
+	},
+	{
+		"make": "itel",
+		"model": "WQ500T"
+	},
+	{
+		"make": "itel",
+		"model": "Wish A41"
+	},
+	{
+		"make": "itel",
+		"model": "It1502M"
+	},
+	{
+		"make": "itel",
+		"model": "Wish A21"
+	},
+	{
+		"make": "itel",
+		"model": "Wish A41 Plus"
+	},
+	{
+		"make": "itel",
+		"model": "A11"
+	},
+	{
+		"make": "itel",
+		"model": "PowerPro P41"
+	},
+	{
+		"make": "itel",
+		"model": "S41"
+	},
+	{
+		"make": "itel",
+		"model": "A42 Plus"
+	},
+	{
+		"make": "itel",
+		"model": "S21"
+	},
+	{
+		"make": "itel",
+		"model": "Wish A20"
+	},
+	{
+		"make": "itel",
+		"model": "SelfiePro It1511"
+	},
+	{
+		"make": "itel",
+		"model": "Wish A40"
+	},
+	{
+		"make": "itel",
+		"model": "S42"
+	},
+	{
+		"make": "itel",
+		"model": "A44"
+	},
+	{
+		"make": "itel",
+		"model": "A44 Pro"
+	},
+	{
+		"make": "itel",
+		"model": "A62"
+	},
+	{
+		"make": "itel",
+		"model": "A22"
+	},
+	{
+		"make": "itel",
+		"model": "SelfiePro S41"
+	},
+	{
+		"make": "itel",
+		"model": "A45"
+	},
+	{
+		"make": "itel",
+		"model": "A22 Pro"
+	},
+	{
+		"make": "itel",
+		"model": "A23"
+	},
+	{
+		"make": "itel",
+		"model": "A44 Power"
+	},
+	{
+		"make": "itel",
+		"model": "A25"
+	},
+	{
+		"make": "itel",
+		"model": "A46"
+	},
+	{
+		"make": "itel",
+		"model": "A44 Air"
+	},
+	{
+		"make": "itel",
+		"model": "Vision 1"
+	},
+	{
+		"make": "itel",
+		"model": "A23 (2019)"
+	},
+	{
+		"make": "itel",
+		"model": "A23 (2020)"
+	},
+	{
+		"make": "itel",
+		"model": "A25 Pro"
+	},
+	{
+		"make": "itel",
+		"model": "A48"
+	},
+	{
+		"make": "itel",
+		"model": "it2161"
+	},
+	{
+		"make": "itel",
+		"model": "it2163"
+	},
+	{
+		"make": "itel",
+		"model": "It5605n"
+	},
+	{
+		"make": "itel",
+		"model": "Power 110 It5608"
+	},
+	{
+		"make": "itel",
+		"model": "Magic 1 Core It5260"
+	},
+	{
+		"make": "itel",
+		"model": "Magic 2 it6131"
+	},
+	{
+		"make": "itel",
+		"model": "Magic 2 Max It6330"
+	},
+	{
+		"make": "itel",
+		"model": "Muzik 400 Core It5071"
+	},
+	{
+		"make": "itel",
+		"model": "Muzik 400 It5092"
+	},
+	{
+		"make": "itel",
+		"model": "Power 100 It5607"
+	},
+	{
+		"make": "itel",
+		"model": "Power 400 It5617"
+	},
+	{
+		"make": "itel",
+		"model": "Power 410 It5618n"
+	},
+	{
+		"make": "itel",
+		"model": "Vision 1 "
+	},
+	{
+		"make": "itel",
+		"model": "It2171"
+	},
+	{
+		"make": "itel",
+		"model": "It2173"
+	},
+	{
+		"make": "itel",
+		"model": "It2192"
+	},
+	{
+		"make": "itel",
+		"model": "It2320"
+	},
+	{
+		"make": "itel",
+		"model": "it5605"
+	},
+	{
+		"make": "itel",
+		"model": "U10"
+	},
+	{
+		"make": "itel",
+		"model": "It5026"
+	},
+	{
+		"make": "itel",
+		"model": "It5618N"
+	},
+	{
+		"make": "itel",
+		"model": "It5025"
+	},
+	{
+		"make": "itel",
+		"model": "It5603"
+	},
+	{
+		"make": "itel",
+		"model": "It5620"
+	},
+	{
+		"make": "itel",
+		"model": "It2160"
+	},
+	{
+		"make": "itel",
+		"model": "It2190"
+	},
+	{
+		"make": "itel",
+		"model": "It5081"
+	},
+	{
+		"make": "itel",
+		"model": "It5606"
+	},
+	{
+		"make": "itel",
+		"model": "It5625"
+	},
+	{
+		"make": "itel",
+		"model": "Magic 1 It6130"
+	},
+	{
+		"make": "itel",
+		"model": "Magic 1 Max It6310"
+	},
+	{
+		"make": "itel",
+		"model": "It2162"
+	},
+	{
+		"make": "itel",
+		"model": "It2172"
+	},
+	{
+		"make": "itel",
+		"model": "It5023"
+	},
+	{
+		"make": "itel",
+		"model": "It5616"
+	},
+	{
+		"make": "Jalsa",
+		"model": "J31"
+	},
+	{
+		"make": "Jalsa",
+		"model": "J32"
+	},
+	{
+		"make": "Jalsa",
+		"model": "J33"
+	},
+	{
+		"make": "Jalsa",
+		"model": "J34"
+	},
+	{
+		"make": "Jalsa",
+		"model": "K35"
+	},
+	{
+		"make": "Jalsa",
+		"model": "J10"
+	},
+	{
+		"make": "Jalsa",
+		"model": "J26"
+	},
+	{
+		"make": "Jalsa",
+		"model": "J27"
+	},
+	{
+		"make": "Jalsa",
+		"model": "J6"
+	},
+	{
+		"make": "Jalsa",
+		"model": "J9"
+	},
+	{
+		"make": "Jalsa",
+		"model": "J29"
+	},
+	{
+		"make": "Jalsa",
+		"model": "J30"
+	},
+	{
+		"make": "Jalsa",
+		"model": "F1"
+	},
+	{
+		"make": "Jalsa",
+		"model": "Mini 2"
+	},
+	{
+		"make": "Jalsa",
+		"model": "J21"
+	},
+	{
+		"make": "Jalsa",
+		"model": "J22"
+	},
+	{
+		"make": "Jalsa",
+		"model": "J23"
+	},
+	{
+		"make": "Jalsa",
+		"model": "J24"
+	},
+
+	{
+		"make": "Jalsa Prime",
+		"model": "J3"
+	},
+	{
+		"make": "Jmax Mobile",
+		"model": "M40"
+	},
+	{
+		"make": "Junoon Mobile",
+		"model": "J11"
+	},
+	{
+		"make": "Junoon Mobile",
+		"model": "J12"
+	},
+	{
+		"make": "Junoon Mobile",
+		"model": "J13"
+	},
+	{
+		"make": "Junoon Mobile",
+		"model": "J14"
+	},
+	{
+		"make": "Junoon Mobile",
+		"model": "J15"
+	},
+	{
+		"make": "Karbonn",
+		"model": "Aura Power 4G"
+	},
+	{
+		"make": "Karbonn",
+		"model": "K26"
+	},
+	{
+		"make": "Karbonn",
+		"model": "K9 Smart"
+	},
+	{
+		"make": "Karbonn",
+		"model": "K9 Smart 4G"
+	},
+	{
+		"make": "Karbonn",
+		"model": "K9 Viraat"
+	},
+	{
+		"make": "Karbonn",
+		"model": "K9 Viraat 4G"
+	},
+	{
+		"make": "Karbonn",
+		"model": "Eluga Prim "
+	},
+	{
+		"make": "Karbonn",
+		"model": "P88 "
+	},
+	{
+		"make": "Karbonn",
+		"model": "Titanium S18"
+	},
+	{
+		"make": "Karbonn",
+		"model": "Aura Note 4G"
+	},
+	{
+		"make": "Karbonn",
+		"model": "Aura Power"
+	},
+	{
+		"make": "Karbonn",
+		"model": "Aura Sleek 4G"
+	},
+	{
+		"make": "Karbonn",
+		"model": "Eluga Note "
+	}, {
+		"make": "Karbonn",
+		"model": "Eluga Pulse "
+	}, {
+		"make": "Karbonn",
+		"model": "Eluga Pulse X "
+	},
+	{
+		"make": "Karbonn",
+		"model": "T44 "
+	}, {
+		"make": "Karbonn",
+		"model": "Titanium Mach Five"
+	}, {
+		"make": "Karbonn",
+		"model": "Titanium Vista 4G"
+	}, {
+		"make": "Karbonn",
+		"model": "Eluga I2"
+	}, {
+		"make": "Karbonn",
+		"model": "P66 "
+	}, {
+		"make": "Karbonn",
+		"model": "Titanium S205 Plus"
+	}, {
+		"make": "Karbonn",
+		"model": "A108 Plus"
+	}, {
+		"make": "Karbonn",
+		"model": "A91 Storm"
+	}, {
+		"make": "Karbonn",
+		"model": "Alfa A91 Power"
+	}, {
+		"make": "Karbonn",
+		"model": "Aura 4G"
+	}, {
+		"make": "Karbonn",
+		"model": "A6 Turbo"
+	}, {
+		"make": "Karbonn",
+		"model": "A6 Turbo 3G"
+	}, {
+		"make": "Karbonn",
+		"model": "Alfa A91 Champ"
+	}, {
+		"make": "Karbonn",
+		"model": "Aura Note 2"
+	}, {
+		"make": "Karbonn",
+		"model": "Aura Power 4G Plus"
+	}, {
+		"make": "Karbonn",
+		"model": "K9 Kavach 4G"
+	}, {
+		"make": "Karbonn",
+		"model": "Titanium 3D Plex"
+	}, {
+		"make": "Karbonn",
+		"model": "A40 Indian"
+	}, {
+		"make": "Karbonn",
+		"model": "K9 Kavach"
+	}, {
+		"make": "Karbonn",
+		"model": "P85"
+	}, {
+		"make": "Karbonn",
+		"model": "A41 Power"
+	}, {
+		"make": "Karbonn",
+		"model": "Aura Note play"
+	}, {
+		"make": "Karbonn",
+		"model": "Indian 9"
+	}, {
+		"make": "Karbonn",
+		"model": "K9 Smart Eco"
+	}, {
+		"make": "Karbonn",
+		"model": "K9 Smart Yuva"
+	}, {
+		"make": "Karbonn",
+		"model": "A1 Indian"
+	}, {
+		"make": "Karbonn",
+		"model": "A45 Indian"
+	}, {
+		"make": "Karbonn",
+		"model": "K9 Smart Grand"
+	}, {
+		"make": "Karbonn",
+		"model": "Titanium Jumbo"
+	}, {
+		"make": "Karbonn",
+		"model": "K9 Music 4G"
+	}, {
+		"make": "Karbonn",
+		"model": "Titanium Frames S7"
+	}, {
+		"make": "Karbonn",
+		"model": "Titanium Jumbo 2"
+	}, {
+		"make": "Karbonn",
+		"model": "Yuva 2"
+	}, {
+		"make": "Karbonn",
+		"model": "A9 Indian"
+	}, {
+		"make": "Karbonn",
+		"model": "K9 Viraat 4G Plus"
+	}, {
+		"make": "Karbonn",
+		"model": "Aura Sleek Plus"
+	}, {
+		"make": "Karbonn",
+		"model": "K9 Smart Selfie"
+	}, {
+		"make": "Karbonn",
+		"model": "Aura Champ"
+	}, {
+		"make": "Karbonn",
+		"model": "Aura Storm"
+	}, {
+		"make": "Karbonn",
+		"model": "Alfa A18"
+	}, {
+		"make": "Karbonn",
+		"model": "Platinum P9 (2018)"
+	}, {
+		"make": "Karbonn",
+		"model": "Platinum P9 Pro (2018)"
+	}, {
+		"make": "Karbonn",
+		"model": "K9 Smart Plus"
+	}, {
+		"make": "Karbonn",
+		"model": "Frames S9"
+	}, {
+		"make": "Karbonn",
+		"model": "Titanium S9 Plus"
+	}, {
+		"make": "Karbonn",
+		"model": "Vue 1"
+	}, {
+		"make": "Karbonn",
+		"model": "K140 Pop"
+	}, {
+		"make": "Karbonn",
+		"model": "K19 Rock"
+	}, {
+		"make": "Karbonn",
+		"model": "K2 Boom Box"
+	}, {
+		"make": "Karbonn",
+		"model": "K24 Plus"
+	}, {
+		"make": "Karbonn",
+		"model": "K310n"
+	}, {
+		"make": "Karbonn",
+		"model": "K5 Plus"
+	}, {
+		"make": "Karbonn",
+		"model": "K7 Power"
+	}, {
+		"make": "Karbonn",
+		"model": "K9"
+	}, {
+		"make": "Karbonn",
+		"model": "K9 Mini"
+	}, {
+		"make": "Karbonn",
+		"model": "Kphone X"
+	}, {
+		"make": "Karbonn",
+		"model": "KX1"
+	}, {
+		"make": "Karbonn",
+		"model": "KX19"
+	}, {
+		"make": "Karbonn",
+		"model": "KX23"
+	}, {
+		"make": "Karbonn",
+		"model": "KX26"
+	}, {
+		"make": "Karbonn",
+		"model": "KX3"
+	}, {
+		"make": "Karbonn",
+		"model": "KX51"
+	}, {
+		"make": "Karbonn",
+		"model": "Titanium S9 Plus "
+	}, {
+		"make": "Karbonn",
+		"model": "K111 Superstar"
+	}, {
+		"make": "Karbonn",
+		"model": "K130 Star"
+	}, {
+		"make": "Karbonn",
+		"model": "K24 Plus Pro"
+	}, {
+		"make": "Karbonn",
+		"model": "Kphone 7"
+	}, {
+		"make": "Karbonn",
+		"model": "KX1i"
+	}, {
+		"make": "Karbonn",
+		"model": "KX26i"
+	}, {
+		"make": "Karbonn",
+		"model": "KX4"
+	}, {
+		"make": "Karbonn",
+		"model": "KX4i"
+	}, {
+		"make": "Karbonn",
+		"model": "KX80"
+	}, {
+		"make": "Karbonn",
+		"model": "K Pebble"
+	}, {
+		"make": "Karbonn",
+		"model": "K59 Star"
+	}, {
+		"make": "Karbonn",
+		"model": "K88"
+	}, {
+		"make": "Karbonn",
+		"model": "KX5"
+	}, {
+		"make": "Karbonn",
+		"model": "Jumbo K9"
+	}, {
+		"make": "Karbonn",
+		"model": "K24 Plus Pop"
+	}, {
+		"make": "Karbonn",
+		"model": "K3 Boom Max"
+	}, {
+		"make": "Karbonn",
+		"model": "K334"
+	}, {
+		"make": "Karbonn",
+		"model": "K9 Spy"
+	}, {
+		"make": "Karbonn",
+		"model": "Kphone 1"
+	}, {
+		"make": "Karbonn",
+		"model": "K19"
+	}, {
+		"make": "Karbonn",
+		"model": "KX28"
+	}, {
+		"make": "Karbonn",
+		"model": "KX25"
+	}, {
+		"make": "Karbonn",
+		"model": "K Stylo"
+	}, {
+		"make": "Karbonn",
+		"model": "K49"
+	}, {
+		"make": "Karbonn",
+		"model": "KX24"
+	}, {
+		"make": "Kawl",
+		"model": "K12"
+	}, {
+		"make": "Kawl",
+		"model": "K18"
+	}, {
+		"make": "Kawl",
+		"model": "K25"
+	}, {
+		"make": "Kawl",
+		"model": "K57"
+	}, {
+		"make": "Kechaoda",
+		"model": "A26"
+	}, {
+		"make": "Kechaoda",
+		"model": "A27"
+	}, {
+		"make": "Kechaoda",
+		"model": "A31"
+	}, {
+		"make": "Kechaoda",
+		"model": "K10"
+	}, {
+		"make": "Kechaoda",
+		"model": "K103"
+	}, {
+		"make": "Kechaoda",
+		"model": "K112"
+	}, {
+		"make": "Kechaoda",
+		"model": "K66 Plus"
+	}, {
+		"make": "Kechaoda",
+		"model": "K8"
+	}, {
+		"make": "Kechaoda",
+		"model": "A32"
+	}, {
+		"make": "Kechaoda",
+		"model": "K115"
+	}, {
+		"make": "Kechaoda",
+		"model": "K16"
+	}, {
+		"make": "Kechaoda",
+		"model": "K30"
+	}, {
+		"make": "Kechaoda",
+		"model": "K50"
+	}, {
+		"make": "Kechaoda",
+		"model": "K700"
+	}, {
+		"make": "Kechaoda",
+		"model": "K92"
+	}, {
+		"make": "Kechaoda",
+		"model": "M370"
+	}, {
+		"make": "Kechaoda",
+		"model": "K116"
+	}, {
+		"make": "Kechaoda",
+		"model": "K33"
+	}, {
+		"make": "Kechaoda",
+		"model": "K60"
+	}, {
+		"make": "Kechaoda",
+		"model": "K66"
+	}, {
+		"make": "Kechaoda",
+		"model": "K116 Plus"
+	}, {
+		"make": "Kechaoda",
+		"model": "K111"
+	}, {
+		"make": "Kechaoda",
+		"model": "K222"
+	}, {
+		"make": "Kechaoda",
+		"model": "K55 Plus"
+	}, {
+		"make": "Kechaoda",
+		"model": "A29"
+	}, {
+		"make": "Kechaoda",
+		"model": "A30"
+	}, {
+		"make": "Kechaoda",
+		"model": "A18"
+	}, {
+		"make": "Kechaoda",
+		"model": "K56"
+	}, {
+		"make": "Kekai",
+		"model": "S5"
+	}, {
+		"make": "Lava",
+		"model": "A50"
+	}, {
+		"make": "Lava",
+		"model": "A55"
+	}, {
+		"make": "Lava",
+		"model": "A59"
+	}, {
+		"make": "Lava",
+		"model": "A68"
+	}, {
+		"make": "Lava",
+		"model": "A72"
+	}, {
+		"make": "Lava",
+		"model": "A76 Plus"
+	}, {
+		"make": "Lava",
+		"model": "A97"
+	}, {
+		"make": "Lava",
+		"model": "Flair S1"
+	}, {
+		"make": "Lava",
+		"model": "X38"
+	}, {
+		"make": "Lava",
+		"model": "Xolo Era 1X"
+	}, {
+		"make": "Lava",
+		"model": "Xolo Era 2"
+	}, {
+		"make": "Lava",
+		"model": "Xolo Era 4G"
+	}, {
+		"make": "Lava",
+		"model": "Xolo Era X"
+	}, {
+		"make": "Lava",
+		"model": "Z10"
+	}, {
+		"make": "Lava",
+		"model": "Z25"
+	}, {
+		"make": "Lava",
+		"model": "A67"
+	}, {
+		"make": "Lava",
+		"model": "A71"
+	}, {
+		"make": "Lava",
+		"model": "A76"
+	}, {
+		"make": "Lava",
+		"model": "A82"
+	}, {
+		"make": "Lava",
+		"model": "Iris 506Q"
+	}, {
+		"make": "Lava",
+		"model": "Iris Atom 3"
+	}, {
+		"make": "Lava",
+		"model": "P7 Plus"
+	}, {
+		"make": "Lava",
+		"model": "Xolo Era 2X"
+	}, {
+		"make": "Lava",
+		"model": "X81"
+	}, {
+		"make": "Lava",
+		"model": "A79"
+	}, {
+		"make": "Lava",
+		"model": "V2S"
+	}, {
+		"make": "Lava",
+		"model": "X50"
+	}, {
+		"make": "Lava",
+		"model": "A77"
+	}, {
+		"make": "Lava",
+		"model": "X28"
+	}, {
+		"make": "Lava",
+		"model": "A44"
+	}, {
+		"make": "Lava",
+		"model": "X38 2GB"
+	}, {
+		"make": "Lava",
+		"model": "X17"
+	}, {
+		"make": "Lava",
+		"model": "Xolo Era 1X Pro"
+	}, {
+		"make": "Lava",
+		"model": "A52"
+	}, {
+		"make": "Lava",
+		"model": "A73"
+	}, {
+		"make": "Lava",
+		"model": "A97 Plus"
+	}, {
+		"make": "Lava",
+		"model": "X41 Plus"
+	}, {
+		"make": "Lava",
+		"model": "A51"
+	}, {
+		"make": "Lava",
+		"model": "Xolo Era 2V"
+	}, {
+		"make": "Lava",
+		"model": "Xolo Era 3X"
+	}, {
+		"make": "Lava",
+		"model": "Z60"
+	}, {
+		"make": "Lava",
+		"model": "Z80"
+	}, {
+		"make": "Lava",
+		"model": "Z90"
+	}, {
+		"make": "Lava",
+		"model": "A3 4G"
+	}, {
+		"make": "Lava",
+		"model": "A89"
+	}, {
+		"make": "Lava",
+		"model": "Xolo Era 3"
+	}, {
+		"make": "Lava",
+		"model": "Z70"
+	}, {
+		"make": "Lava",
+		"model": "A77T"
+	}, {
+		"make": "Lava",
+		"model": "Iris Atom 2"
+	}, {
+		"make": "Lava",
+		"model": "X19"
+	}, {
+		"make": "Lava",
+		"model": "X28 Plus"
+	}, {
+		"make": "Lava",
+		"model": "Pixel V2 Plus"
+	}, {
+		"make": "Lava",
+		"model": "X50 Plus"
+	}, {
+		"make": "Lava",
+		"model": "Z50"
+	}, {
+		"make": "Lava",
+		"model": "Iris Atom X"
+	}, {
+		"make": "Lava",
+		"model": "Z91"
+	}, {
+		"make": "Lava",
+		"model": "Z61"
+	}, {
+		"make": "Lava",
+		"model": "Z91E"
+	}, {
+		"make": "Lava",
+		"model": "Z60s"
+	}, {
+		"make": "Lava",
+		"model": "Z81"
+	}, {
+		"make": "Lava",
+		"model": "Z41"
+	}, {
+		"make": "Lava",
+		"model": "Z51"
+	}, {
+		"make": "Lava",
+		"model": "Z52 Pro"
+	}, {
+		"make": "Lava",
+		"model": "Z62"
+	}, {
+		"make": "Lava",
+		"model": "Z92"
+	}, {
+		"make": "Lava",
+		"model": "Z93"
+	}, {
+		"make": "Lava",
+		"model": "Xolo Era 4X"
+	}, {
+		"make": "Lava",
+		"model": "Xolo Era 5X"
+	}, {
+		"make": "Lava",
+		"model": "Xolo ZX"
+	}, {
+		"make": "Lava",
+		"model": "Z40"
+	}, {
+		"make": "Lava",
+		"model": "X10"
+	}, {
+		"make": "Lava",
+		"model": "Z61 Pro"
+	}, {
+		"make": "Lava",
+		"model": "Z66"
+	}, {
+		"make": "Lava",
+		"model": "Z71"
+	}, {
+		"make": "Lava",
+		"model": "Z53"
+	}, {
+		"make": "Lava",
+		"model": "34 Super"
+	}, {
+		"make": "Lava",
+		"model": "A1"
+	}, {
+		"make": "Lava",
+		"model": "A1 Colors"
+	}, {
+		"make": "Lava",
+		"model": "A1 Josh"
+	}, {
+		"make": "Lava",
+		"model": "A1 Super"
+	}, {
+		"make": "Lava",
+		"model": "A1200"
+	}, {
+		"make": "Lava",
+		"model": "A3"
+	}, {
+		"make": "Lava",
+		"model": "A5"
+	}, {
+		"make": "Lava",
+		"model": "A7"
+	}, {
+		"make": "Lava",
+		"model": "A7 Wave"
+	}, {
+		"make": "Lava",
+		"model": "A9"
+	}, {
+		"make": "Lava",
+		"model": "Gem"
+	}, {
+		"make": "Lava",
+		"model": "Hero 600 Plus"
+	}, {
+		"make": "Lava",
+		"model": "Prime Z"
+	}, {
+		"make": "Lava",
+		"model": "Pulse"
+	}, {
+		"make": "Lava",
+		"model": "Pulse 1"
+	}, {
+		"make": "Lava",
+		"model": "Spark i8"
+	}, {
+		"make": "Lava",
+		"model": "Z61 "
+	}, {
+		"make": "Lava",
+		"model": "34 Plus"
+	}, {
+		"make": "Lava",
+		"model": "Hero 600"
+	}, {
+		"make": "Lava",
+		"model": "One"
+	}, {
+		"make": "Lava",
+		"model": "Prime X"
+	}, {
+		"make": "Lava",
+		"model": "Z91 "
+	}, {
+		"make": "Lava",
+		"model": "Z92 "
+	}, {
+		"make": "Lenovo",
+		"model": "A7700"
+	}, {
+		"make": "Lenovo",
+		"model": "K3 Note Music K50A40"
+	}, {
+		"make": "Lenovo",
+		"model": "K6 Note"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto M XT1663"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Z XT1650"
+	}, {
+		"make": "Lenovo",
+		"model": "Phab 2"
+	}, {
+		"make": "Lenovo",
+		"model": "Vibe K5"
+	}, {
+		"make": "Lenovo",
+		"model": "Vibe K5 Note"
+	}, {
+		"make": "Lenovo",
+		"model": "Vibe K5 Plus"
+	}, {
+		"make": "Lenovo",
+		"model": "Vibe K6 Power"
+	}, {
+		"make": "Lenovo",
+		"model": "Vibe P1"
+	}, {
+		"make": "Lenovo",
+		"model": "A6600"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto E3 Power XT1706"
+	}, {
+		"make": "Lenovo",
+		"model": "P2"
+	}, {
+		"make": "Lenovo",
+		"model": "Phab 2 Plus"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto G5 Plus XT1686"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto G5 XT1677"
+	}, {
+		"make": "Lenovo",
+		"model": "Phab 2 Pro"
+	}, {
+		"make": "Lenovo",
+		"model": "Vibe B"
+	}, {
+		"make": "Lenovo",
+		"model": "Zuk Z2 Plus"
+	}, {
+		"make": "Lenovo",
+		"model": "A6600 Plus"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto C Plus XT1721"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto C XT1755"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto E3 XT1700"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto E4 Plus"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto E4 XT1760"
+	}, {
+		"make": "Lenovo",
+		"model": "K8 Note XT1902"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola G5S Plus XT1804"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola G5S XT1795"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola X4 XT1900"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Z2 Play XT1710"
+	}, {
+		"make": "Lenovo",
+		"model": "K8 Plus"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto Z2 Force XT1789"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto G6 Play XT1922"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto G6 XT1925"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto E4 Plus XT1770"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto E5 Plus XT1924"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto E5 XT1944"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto G6 Plus"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto One power XT1942"
+	}, {
+		"make": "Lenovo",
+		"model": "A5"
+	}, {
+		"make": "Lenovo",
+		"model": "K9"
+	}, {
+		"make": "Lenovo",
+		"model": "K9 Note"
+	}, {
+		"make": "Lenovo",
+		"model": "A6 Note"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola E6S XT2025"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto G7 XT1962"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola One XT 1941"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola One Macro XT2016"
+	}, {
+		"make": "Lenovo",
+		"model": "K10 Note"
+	}, {
+		"make": "Lenovo",
+		"model": "K10 Note 6GB"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto G7 Power 4GB XT1955"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola G8 Plus XT2019"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola One Action XT2013"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola One Vision XT1970"
+	}, {
+		"make": "Lenovo",
+		"model": "K10 Plus"
+	}, {
+		"make": "Lenovo",
+		"model": "Z6 Pro"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Edge Plus XT2061"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola G8 Power Lite XT2055"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola One Fusion Plus XT2067"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Razr (2019) XT2000"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola One Fusion Plus XT2083"
+	}, {
+		"make": "Lenovo",
+		"model": "Moto E7 Plus"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola G9"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto E7 Plus XT2081"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto G9 XT2083"
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Razr (2020) XT2071"
+	}, {
+		"make": "Lenovo",
+		"model": "A7 "
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto G6 XT1925 "
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto G7 Power XT1955 "
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Edge Plus XT2061 "
+	}, {
+		"make": "Lenovo",
+		"model": "A5 "
+	}, {
+		"make": "Lenovo",
+		"model": "K10 Note "
+	}, {
+		"make": "Lenovo",
+		"model": "K9 "
+	}, {
+		"make": "Lenovo",
+		"model": "Motorola Moto G6 Play XT1922 "
+	}, {
+		"make": "LG",
+		"model": "G5 H860"
+	}, {
+		"make": "LG",
+		"model": "K500I"
+	}, {
+		"make": "LG",
+		"model": "Nexus 5X"
+	}, {
+		"make": "LG",
+		"model": "Stylus 2 K520DY"
+	}, {
+		"make": "LG",
+		"model": "V20 Titan H990DS"
+	}, {
+		"make": "LG",
+		"model": "X power K220DSZ"
+	}, {
+		"make": "LG",
+		"model": "K10 4G K420N"
+	}, {
+		"make": "LG",
+		"model": "K10-2017 M250I"
+	}, {
+		"make": "LG",
+		"model": "Stylus 2 Plus K535D"
+	}, {
+		"make": "LG",
+		"model": "Stylus 3 M400DK"
+	}, {
+		"make": "LG",
+		"model": "G6 H870 DS"
+	}, {
+		"make": "LG",
+		"model": "K7 LTE K332"
+	}, {
+		"make": "LG",
+		"model": "K8-2017 X240I"
+	}, {
+		"make": "LG",
+		"model": "X Venture H700"
+	}, {
+		"make": "LG",
+		"model": "Q6 Plus M700DS"
+	}, {
+		"make": "LG",
+		"model": "K7i LG230 I "
+	},
+	{
+		"make": "LG",
+		"model": "V30 Plus H930DS"
+	}, {
+		"make": "LG",
+		"model": "LG700 DSK "
+	}, {
+		"make": "LG",
+		"model": "K7i X230I"
+	}, {
+		"make": "LG",
+		"model": "G7 Plus LMG710EAW"
+	}, {
+		"make": "LG",
+		"model": "Q7 LMQ610YN "
+	}, {
+		"make": "LG",
+		"model": "K9 MX210IMW"
+	}, {
+		"make": "LG",
+		"model": "Q Stylus Plus LMQ710YBW"
+	}, {
+		"make": "LG",
+		"model": "Candy K9 LMX210"
+	}, {
+		"make": "LG",
+		"model": "Q Stylus LMQ710YMW"
+	}, {
+		"make": "LG",
+		"model": "G8S ThinQ LMG810EAW"
+	}, {
+		"make": "LG",
+		"model": "W10 Alpha LMX210LMW"
+	}, {
+		"make": "LG",
+		"model": "W30 Pro LMX600IM"
+	}, {
+		"make": "LG",
+		"model": "Q7 Plus LMQ610YB"
+	}, {
+		"make": "LG",
+		"model": "W30 LMX440IM"
+	}, {
+		"make": "LG",
+		"model": "W30 Plus LMX440Zm"
+	}, {
+		"make": "LG",
+		"model": "Q60 LMX525ZAW"
+	}, {
+		"make": "LG",
+		"model": "G7 Thin Q LMG710EMW"
+	}, {
+		"make": "LG",
+		"model": "W10 LMX130IM"
+	}, {
+		"make": "LG",
+		"model": "V40 ThinQ LMV405EBW"
+	}, {
+		"make": "LG",
+		"model": "Q Stylus Plus 4GB LMQ710YBW"
+	}, {
+		"make": "LG",
+		"model": "Q Stylus Plus 3GB LMQ710YBW"
+	}, {
+		"make": "LG",
+		"model": "Q7 Alpha LMQ610IS"
+	}, {
+		"make": "LG",
+		"model": "G8X ThinQ LMG850EMW"
+	}, {
+		"make": "LG",
+		"model": "W11"
+	}, {
+		"make": "LG",
+		"model": "W31 LMK315IM"
+	}, {
+		"make": "LG",
+		"model": "W31 LMK315IM "
+	}, {
+		"make": "LYF",
+		"model": "Flame 2 LYF LS-4004"
+	}, {
+		"make": "LYF",
+		"model": "Flame 3 LYF LS-4001"
+	}, {
+		"make": "LYF",
+		"model": "Flame 4 LYF LS-4003"
+	}, {
+		"make": "LYF",
+		"model": "Flame 8 LYF LS-4505"
+	}, {
+		"make": "LYF",
+		"model": "Water 1 LYF LS-5002"
+	}, {
+		"make": "LYF",
+		"model": "Water 4 LYF LS-5005"
+	}, {
+		"make": "LYF",
+		"model": "Water 5 LYF LS-5007"
+	}, {
+		"make": "LYF",
+		"model": "Water F1S LYF LS-5201"
+	}, {
+		"make": "LYF",
+		"model": "Wind 2 LYF LS-6001"
+	}, {
+		"make": "LYF",
+		"model": "Wind 4S LYF LS-5018"
+	}, {
+		"make": "LYF",
+		"model": "Wind 6 LYF LS-5009"
+	}, {
+		"make": "LYF",
+		"model": "Wind 7 LYF LS-5016"
+	}, {
+		"make": "LYF",
+		"model": "Wind 7i LYF LS-5016"
+	}, {
+		"make": "LYF",
+		"model": "Flame 7S LYF LS-4008"
+	}, {
+		"make": "LYF",
+		"model": "Wind 5 LYF LS-5013"
+	}, {
+		"make": "LYF",
+		"model": "Flame 1 LYF LS-4503"
+	}, {
+		"make": "LYF",
+		"model": "C451"
+	}, {
+		"make": "LYF",
+		"model": "C459"
+	}, {
+		"make": "LYF",
+		"model": "Wind 3 LYF LS-5502"
+	}, {
+		"make": "LYF",
+		"model": "Water 3 LYF LS-5503"
+	}, {
+		"make": "LYF",
+		"model": "Flame 5 LS-4002"
+	}, {
+		"make": "LYF",
+		"model": "Water 8 LYF LS-5015"
+	}, {
+		"make": "LYF",
+		"model": "Water F1 LYF LS-5505"
+	}, {
+		"make": "LYF",
+		"model": "Water 11 LYF LS-5017"
+	}, {
+		"make": "LYF",
+		"model": "JioPhone F220B"
+	}, {
+		"make": "LYF",
+		"model": "JioPhone F250Y"
+	}, {
+		"make": "LYF",
+		"model": "JioPhone F90M"
+	}, {
+		"make": "LYF",
+		"model": "JioPhone F211S"
+	}, {
+		"make": "Mafe",
+		"model": "Energy"
+	}, {
+		"make": "Mafe",
+		"model": "Neo"
+	}, {
+		"make": "Mafe",
+		"model": "Super"
+	}, {
+		"make": "Mafe",
+		"model": "Gold"
+	}, {
+		"make": "Mafe",
+		"model": "Nemo"
+	}, {
+		"make": "Mafe",
+		"model": "Cube"
+	}, {
+		"make": "Mafe",
+		"model": "Blade"
+	}, {
+		"make": "Mafe",
+		"model": "Lite 3310"
+	}, {
+		"make": "Make",
+		"model": "Model"
+	}, {
+		"make": "Marq",
+		"model": "M24 Armor"
+	},
+	{
+		"make": "Meizu",
+		"model": "M5 M611H"
+	},
+	{
+		"make": "Meizu",
+		"model": "M3 Note"
+	},
+	{
+		"make": "Meizu",
+		"model": "Pro 7"
+	},
+	{
+		"make": "Meizu",
+		"model": "M6 M711H"
+	},
+	{
+		"make": "Meizu",
+		"model": "C9"
+	},
+	{
+		"make": "Meizu",
+		"model": "16Th"
+	},
+	{
+		"make": "Meizu",
+		"model": "M6T"
+	},
+	{
+		"make": "Meizu",
+		"model": "C9 Pro"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bolt Q303"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bolt Q335"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bolt Q338"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bolt Selfie Q424"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bolt Supreme Q300"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bolt Warrior 2 Plus Q4220"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bolt Warrior 2 Q4202"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas 5 Lite Q462"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas 6 E485"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Amaze 4G Q491"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Juice 2 AQ5001"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Juice A1 Q4251"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Mega E353"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Nitro 2 E311"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Selfie 2 Q340"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Spark 4G Q4201"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Unite 4 Plus Q427"
+	},
+	{
+		"make": "Micromax",
+		"model": "Vdeo 1 Q4001"
+	},
+	{
+		"make": "Micromax",
+		"model": "Vdeo 2 Q4101"
+	},
+	{
+		"make": "Micromax",
+		"model": "Vdeo 5 Q4220"
+	},
+	{
+		"make": "Micromax",
+		"model": "YU YU5200"
+	},
+	{
+		"make": "Micromax",
+		"model": "YU Yunicorn YU5530"
+	},
+	{
+		"make": "Micromax",
+		"model": "YU Yuphoria YU5010"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bolt Q326"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bolt Q326 Plus"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bolt Q346"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bolt Q381"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas 5 E481"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Evok Note E453"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Fire 5 Q386"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Mega 2 Q426 Plus"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Sliver 5 Q450"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Unite 4 Pro Q465"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Unite 4 Q427"
+	},
+	{
+		"make": "Micromax",
+		"model": "Spark Vdeo Q415"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bharat 2 Q402"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bolt D303"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Lite 5 Special Q463"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas 2 (2017) Q4310"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Dual 5 E4820"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Evok Power Q4260"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Spark 2 Plus Q350"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Spark 2 Q334"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Spark 3 Q385"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Xpress 4G Q413"
+	},
+	{
+		"make": "Micromax",
+		"model": "YU Yuphoria YU5040"
+	},
+	{
+		"make": "Micromax",
+		"model": "Dual 4 E4816"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas 1"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Express 4G Q413"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Selfie 2 (2017) Q4311"
+	},
+	{
+		"make": "Micromax",
+		"model": "Yu Yunique 2 YU5011"
+	},
+	{
+		"make": "Micromax",
+		"model": "YU Yunique YU4711"
+	},
+	{
+		"make": "Micromax",
+		"model": "YU Yureka AO5510"
+	},
+	{
+		"make": "Micromax",
+		"model": "YU Yureka Black"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bolt Q383"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Xpress 4G Q413 Plus"
+	},
+	{
+		"make": "Micromax",
+		"model": "Selfie 2 Note Q4601"
+	},
+	{
+		"make": "Micromax",
+		"model": "Selfie 2 Q4311"
+	},
+	{
+		"make": "Micromax",
+		"model": "Vdeo 4 Q4251"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bharat 2 Plus Q402"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bharat 3 Q437"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bharat 4 Q440"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Infinity"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Xpress 2 E313"
+	},
+	{
+		"make": "Micromax",
+		"model": "Evok Dual Note E4815"
+	},
+	{
+		"make": "Micromax",
+		"model": "Evok Dual Note E4817"
+	},
+	{
+		"make": "Micromax",
+		"model": "Selfie 3 E460"
+	},
+	{
+		"make": "Micromax",
+		"model": "Spark 4G Prime Q452"
+	},
+	{
+		"make": "Micromax",
+		"model": "Spark 4G Q409"
+	},
+	{
+		"make": "Micromax",
+		"model": "YU YU5012"
+	},
+	{
+		"make": "Micromax",
+		"model": "YU Yuphoria YU6000"
+	},
+	{
+		"make": "Micromax",
+		"model": "YU Yureka 2 YU5551"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bolt Supreme 4 Q352"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Blaze 4G Plus Q414"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bharat 2 Ultra Q402"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bharat 5"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Infinity Pro"
+	},
+	{
+		"make": "Micromax",
+		"model": "YU Yutopia YU5050"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bharat 5 Plus"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bharat 5 Pro"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas 1 (2018)"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas 2 (2018)"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas 2 Plus"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Infinity Life"
+	},
+	{
+		"make": "Micromax",
+		"model": "YU Yureka Black YU5040"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bharat 2 Plus CG4 Q402"
+	},
+	{
+		"make": "Micromax",
+		"model": "Vdeo 3 Q4202"
+	},
+	{
+		"make": "Micromax",
+		"model": "YU Ace YU5014"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bharat 2 CG4 Q402"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bharat 4 CG5 Q440"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bhart 5 infinty edition Q4204"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bharat 4 Diwali Edition"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bharat 5 infinty edition Q4204"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bharat Go Q437"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bolt 4 Q4002"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bharat 4 Diwali Edition Q4002"
+	},
+	{
+		"make": "Micromax",
+		"model": "Bharat 5 infinty edition C"
+	},
+	{
+		"make": "Micromax",
+		"model": "Spark GO Q409A"
+	},
+	{
+		"make": "Micromax",
+		"model": "Infinity N11"
+	},
+	{
+		"make": "Micromax",
+		"model": "Infinity N12"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Music M1 Q4261"
+	},
+	{
+		"make": "Micromax",
+		"model": "Canvas Pulse E451"
+	},
+	{
+		"make": "Micromax",
+		"model": "iOne"
+	},
+	{
+		"make": "Micromax",
+		"model": "iOne Note"
+	},
+	{
+		"make": "Micromax",
+		"model": "Joy J1"
+	},
+	{
+		"make": "Micromax",
+		"model": "X378"
+	},
+	{
+		"make": "Micromax",
+		"model": "X381"
+	},
+	{
+		"make": "Micromax",
+		"model": "X421"
+	},
+	{
+		"make": "Micromax",
+		"model": "X512A"
+	},
+	{
+		"make": "Micromax",
+		"model": "X741"
+	},
+	{
+		"make": "Micromax",
+		"model": "X748"
+	},
+	{
+		"make": "Micromax",
+		"model": "X749"
+	},
+	{
+		"make": "Micromax",
+		"model": "X752"
+	},
+	{
+		"make": "Micromax",
+		"model": "X809"
+	},
+	{
+		"make": "Micromax",
+		"model": "X816"
+	},
+	{
+		"make": "Micromax",
+		"model": "X817"
+	},
+	{
+		"make": "Micromax",
+		"model": "X380"
+	},
+	{
+		"make": "Micromax",
+		"model": "X412A"
+	},
+	{
+		"make": "Micromax",
+		"model": "X419"
+	},
+	{
+		"make": "Micromax",
+		"model": "X516"
+	},
+	{
+		"make": "Micromax",
+		"model": "X746"
+	},
+	{
+		"make": "Micromax",
+		"model": "X750"
+	},
+	{
+		"make": "Micromax",
+		"model": "X756"
+	},
+	{
+		"make": "Micromax",
+		"model": "X382"
+	},
+	{
+		"make": "Micromax",
+		"model": "X742"
+	},
+	{
+		"make": "Micromax",
+		"model": "X743"
+	},
+	{
+		"make": "Micromax",
+		"model": "X807"
+	},
+	{
+		"make": "Micromax",
+		"model": "X388"
+	},
+	{
+		"make": "Micromax",
+		"model": "X412"
+	},
+	{
+		"make": "Micromax",
+		"model": "X512"
+	},
+	{
+		"make": "Micromax",
+		"model": "X744"
+	},
+	{
+		"make": "Micromax",
+		"model": "X377"
+	},
+	{
+		"make": "Muphone",
+		"model": "M230"
+	},
+	{
+		"make": "Muphone",
+		"model": "M380"
+	},
+	{
+		"make": "Muphone",
+		"model": "Music M230i"
+	},
+	{
+		"make": "Muphone",
+		"model": "M350"
+	},
+	{
+		"make": "Muphone",
+		"model": "M510"
+	},
+	{
+		"make": "Muphone",
+		"model": "M2"
+	},
+	{
+		"make": "Muphone",
+		"model": "M6700"
+	},
+	{
+		"make": "Nlive Mobiles",
+		"model": "N105"
+	},
+	{
+		"make": "Nlive Mobiles",
+		"model": "N201"
+	},
+	{
+		"make": "Nlive Mobiles",
+		"model": "N102"
+	},
+	{
+		"make": "Nokia",
+		"model": "3"
+	},
+	{
+		"make": "Nokia",
+		"model": "5"
+	},
+	{
+		"make": "Nokia",
+		"model": "6"
+	},
+	{
+		"make": "Nokia",
+		"model": "8"
+	},
+	{
+		"make": "Nokia",
+		"model": "2"
+	},
+	{
+		"make": "Nokia",
+		"model": "1"
+	},
+	{
+		"make": "Nokia",
+		"model": "6.1"
+	},
+	{
+		"make": "Nokia",
+		"model": "8 Sirocco"
+	},
+	{
+		"make": "Nokia",
+		"model": "7 Plus"
+	},
+	{
+		"make": "Nokia",
+		"model": "3.1"
+	},
+	{
+		"make": "Nokia",
+		"model": "5.1"
+	},
+	{
+		"make": "Nokia",
+		"model": "2.1"
+	},
+	{
+		"make": "Nokia",
+		"model": "5.1 plus"
+	},
+	{
+		"make": "Nokia",
+		"model": "6.1 plus"
+	},
+	{
+		"make": "Nokia",
+		"model": "7.1"
+	},
+	{
+		"make": "Nokia",
+		"model": "8.1"
+	},
+	{
+		"make": "Nokia",
+		"model": "3.1 plus"
+	},
+	{
+		"make": "Nokia",
+		"model": "2.3"
+	},
+	{
+		"make": "Nokia",
+		"model": "2.2"
+	},
+	{
+		"make": "Nokia",
+		"model": "6.2"
+	},
+	{
+		"make": "Nokia",
+		"model": "3.2"
+	},
+	{
+		"make": "Nokia",
+		"model": "4.2"
+	},
+	{
+		"make": "Nokia",
+		"model": "7.2"
+	},
+	{
+		"make": "Nokia",
+		"model": "5.2"
+	},
+	{
+		"make": "Nokia",
+		"model": "9 PureView"
+	},
+	{
+		"make": "Nokia",
+		"model": "5.3"
+	},
+	{
+		"make": "Nokia",
+		"model": "C3"
+	},
+	{
+		"make": "Nokia",
+		"model": "2.4"
+	},
+	{
+		"make": "Nokia",
+		"model": "105 (2019)"
+	},
+	{
+		"make": "Nokia",
+		"model": "105 DS (2019)"
+	},
+	{
+		"make": "Nokia",
+		"model": "106 (2018)"
+	},
+	{
+		"make": "Nokia",
+		"model": "110 (2019)"
+	},
+	{
+		"make": "Nokia",
+		"model": "125 DS (2020)"
+	},
+	{
+		"make": "Nokia",
+		"model": "150 (2020)"
+	},
+	{
+		"make": "Nokia",
+		"model": "215 4G"
+	},
+	{
+		"make": "Nokia",
+		"model": "216 DS"
+	},
+	{
+		"make": "Nokia",
+		"model": "225 4G"
+	},
+	{
+		"make": "Nokia",
+		"model": "3310 (2017)"
+	},
+	{
+		"make": "Nokia",
+		"model": "5.1 Plus "
+	},
+	{
+		"make": "Nokia",
+		"model": "5310 DS (2020)"
+	},
+	{
+		"make": "Nokia",
+		"model": "C3 "
+	},
+	{
+		"make": "Nokia",
+		"model": "130 DS (2017)"
+	},
+	{
+		"make": "Nokia",
+		"model": "150 DS (2017)"
+	},
+	{
+		"make": "Nokia",
+		"model": "5310 (2020)"
+	},
+	{
+		"make": "Nokia",
+		"model": "8110 4G"
+	},
+	{
+		"make": "One Plus",
+		"model": "Oneplus 3T"
+	},
+	{
+		"make": "One Plus",
+		"model": "Oneplus Three"
+	},
+	{
+		"make": "One Plus",
+		"model": "Oneplus X"
+	},
+	{
+		"make": "One Plus",
+		"model": "Oneplus 5"
+	},
+	{
+		"make": "One Plus",
+		"model": "Oneplus 5T"
+	},
+	{
+		"make": "One Plus",
+		"model": "Oneplus 6"
+	},
+	{
+		"make": "One Plus",
+		"model": "Oneplus 6T"
+	},
+	{
+		"make": "One Plus",
+		"model": "Oneplus 6T Mclaren Edition"
+	},
+	{
+		"make": "One Plus",
+		"model": "7"
+	},
+	{
+		"make": "One Plus",
+		"model": "7 Pro"
+	},
+	{
+		"make": "One Plus",
+		"model": "7T Pro"
+	},
+	{
+		"make": "One Plus",
+		"model": "7T Pro Mclaren Edition"
+	},
+	{
+		"make": "One Plus",
+		"model": "7T"
+	},
+	{
+		"make": "One Plus",
+		"model": "8"
+	},
+	{
+		"make": "One Plus",
+		"model": "8 Pro"
+	},
+	{
+		"make": "One Plus",
+		"model": "Nord"
+	},
+	{
+		"make": "Oppo",
+		"model": "A37F"
+	},
+	{
+		"make": "Oppo",
+		"model": "F1"
+	},
+	{
+		"make": "Oppo",
+		"model": "F1 Plus"
+	},
+	{
+		"make": "Oppo",
+		"model": "F1s"
+	},
+	{
+		"make": "Oppo",
+		"model": "Neo 7 4G"
+	},
+	{
+		"make": "Oppo",
+		"model": "Neo5 1201"
+	},
+	{
+		"make": "Oppo",
+		"model": "A57"
+	},
+	{
+		"make": "Oppo",
+		"model": "F3"
+	},
+	{
+		"make": "Oppo",
+		"model": "F3 Plus"
+	},
+	{
+		"make": "Oppo",
+		"model": "A77"
+	},
+	{
+		"make": "Oppo",
+		"model": "A71"
+	},
+	{
+		"make": "Oppo",
+		"model": "F5"
+	},
+	{
+		"make": "Oppo",
+		"model": "Joy 3 A11W"
+	},
+	{
+		"make": "Oppo",
+		"model": "A83"
+	},
+	{
+		"make": "Oppo",
+		"model": "F5 Youth"
+	},
+	{
+		"make": "Oppo",
+		"model": "Neo 5"
+	},
+	{
+		"make": "Oppo",
+		"model": "A71 New Edition"
+	},
+	{
+		"make": "Oppo",
+		"model": "F7"
+	},
+	{
+		"make": "Oppo",
+		"model": "Realme"
+	},
+	{
+		"make": "Oppo",
+		"model": "A83 (2018)"
+	},
+	{
+		"make": "Oppo",
+		"model": "A3s"
+	},
+	{
+		"make": "Oppo",
+		"model": "F9 Pro"
+	},
+	{
+		"make": "Oppo",
+		"model": "Find X"
+	},
+	{
+		"make": "Oppo",
+		"model": "A5"
+	},
+	{
+		"make": "Oppo",
+		"model": "F9"
+	},
+	{
+		"make": "Oppo",
+		"model": "A7 (2018)"
+	},
+	{
+		"make": "Oppo",
+		"model": "R17 Pro"
+	},
+	{
+		"make": "Oppo",
+		"model": "r17"
+	},
+	{
+		"make": "Oppo",
+		"model": "A1k"
+	},
+	{
+		"make": "Oppo",
+		"model": "K1"
+	},
+	{
+		"make": "Oppo",
+		"model": "Reno 2F"
+	},
+	{
+		"make": "Oppo",
+		"model": "K3"
+	},
+	{
+		"make": "Oppo",
+		"model": "Reno 2Z"
+	},
+	{
+		"make": "Oppo",
+		"model": "Reno"
+	},
+	{
+		"make": "Oppo",
+		"model": "Reno 10x"
+	},
+	{
+		"make": "Oppo",
+		"model": "Reno 2"
+	},
+	{
+		"make": "Oppo",
+		"model": "A5s"
+	},
+	{
+		"make": "Oppo",
+		"model": "A5 2020"
+	},
+	{
+		"make": "Oppo",
+		"model": "A9 2020"
+	},
+	{
+		"make": "Oppo",
+		"model": "A9"
+	},
+	{
+		"make": "Oppo",
+		"model": "F11 Pro Marvels Avengers Edition"
+	},
+	{
+		"make": "Oppo",
+		"model": "A11K"
+	},
+	{
+		"make": "Oppo",
+		"model": "A12"
+	},
+	{
+		"make": "Oppo",
+		"model": "A31"
+	},
+	{
+		"make": "Oppo",
+		"model": "A52"
+	},
+	{
+		"make": "Oppo",
+		"model": "F15"
+	},
+	{
+		"make": "Oppo",
+		"model": "Find X2"
+	},
+	{
+		"make": "Oppo",
+		"model": "Reno 3 Pro"
+	},
+	{
+		"make": "Oppo",
+		"model": "Reno 4 Pro"
+	},
+	{
+		"make": "Oppo",
+		"model": "Find X2 Pro"
+	},
+	{
+		"make": "Oppo",
+		"model": "F17"
+	},
+	{
+		"make": "Oppo",
+		"model": "F17 Pro"
+	},
+	{
+		"make": "Oppo",
+		"model": "A53 2020"
+	},
+	{
+		"make": "Oppo",
+		"model": "R15 Pro"
+	},
+	{
+		"make": "Oppo",
+		"model": "A12 "
+	},
+	{
+		"make": "Oppo",
+		"model": "A15"
+	},
+	{
+		"make": "Oppo",
+		"model": "A31 "
+	},
+	{
+		"make": "Oppo",
+		"model": "A33"
+	},
+	{
+		"make": "Oppo",
+		"model": "A5 2020 "
+	},
+	{
+		"make": "Oppo",
+		"model": "A52 "
+	},
+	{
+		"make": "Oppo",
+		"model": "A53 (2020) "
+	},
+	{
+		"make": "Oppo",
+		"model": "A5s "
+	},
+	{
+		"make": "Oppo",
+		"model": "A9 2020 "
+	},
+	{
+		"make": "Oppo",
+		"model": "F11 "
+	},
+	{
+		"make": "Oppo",
+		"model": "F11 Pro "
+	},
+	{
+		"make": "Oppo",
+		"model": "F15 "
+	},
+	{
+		"make": "Oppo",
+		"model": "F17 "
+	},
+	{
+		"make": "Oppo",
+		"model": "Reno 3 Pro "
+	},
+	{
+		"make": "Oppo",
+		"model": "Reno 4 Pro "
+	},
+	{
+		"make": "Oppo",
+		"model": "Find X2 "
+	},
+	{
+		"make": "Oppo",
+		"model": "Reno 10x "
+	},
+	{
+		"make": "Oppo",
+		"model": "A7 (2018) "
+	},
+	{
+		"make": "Oppo",
+		"model": "Find X2 Pro "
+	},
+	{
+		"make": "Oppo",
+		"model": "Reno "
+	},
+	{
+		"make": "Oppo",
+		"model": "A3s "
+	},
+	{
+		"make": "Otho Mobile",
+		"model": "OT 183 Fire"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga A2"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga Arc2"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga I2"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga Mark 2"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga P71"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga Pulse"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga Ray"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga Ray Max"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga Ray X"
+	},
+	{
+		"make": "Panasonic",
+		"model": "P75"
+	},
+	{
+		"make": "Panasonic",
+		"model": "T44 Lite"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga I3 Mega"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga Prim"
+	},
+	{
+		"make": "Panasonic",
+		"model": "P88"
+	},
+	{
+		"make": "Panasonic",
+		"model": "T44"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga Pulse X"
+	},
+	{
+		"make": "Panasonic",
+		"model": "P55 Max"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga A3"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga A3 Pro"
+	},
+	{
+		"make": "Panasonic",
+		"model": "P77"
+	},
+	{
+		"make": "Panasonic",
+		"model": "P85"
+	},
+	{
+		"make": "Panasonic",
+		"model": "P9"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga I4 "
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga Ray 500"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga Ray 700"
+	},
+	{
+		"make": "Panasonic",
+		"model": "T30"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga A4 "
+	},
+	{
+		"make": "Panasonic",
+		"model": "P91"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga I3"
+	},
+	{
+		"make": "Panasonic",
+		"model": "P99"
+	},
+	{
+		"make": "Panasonic",
+		"model": "T50"
+	},
+	{
+		"make": "Panasonic",
+		"model": "P95"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga I7"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga I9"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga Ray 550"
+	},
+	{
+		"make": "Panasonic",
+		"model": "P100"
+	},
+	{
+		"make": "Panasonic",
+		"model": "P101"
+	},
+	{
+		"make": "Panasonic",
+		"model": "P90"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga i5"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga Ray 530"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga Ray 600"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga X1"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga X1 Pro"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga Z1"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga Z1 Pro"
+	},
+	{
+		"make": "Panasonic",
+		"model": "P85 NXT"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga i8"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga I6"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga Ray 810"
+	},
+	{
+		"make": "Panasonic",
+		"model": "P110"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga Ray 800"
+	},
+	{
+		"make": "Panasonic",
+		"model": "Eluga I7 (2019)"
+	},
+	{
+		"make": "Peace",
+		"model": "P1"
+	},
+	{
+		"make": "Peace",
+		"model": "FM-1"
+	},
+	{
+		"make": "Peace",
+		"model": "K1"
+	},
+	{
+		"make": "Peace",
+		"model": "Mi1"
+	},
+	{
+		"make": "Peace",
+		"model": "Mi3"
+	},
+	{
+		"make": "Peace",
+		"model": "Mi4"
+	},
+	{
+		"make": "Peace",
+		"model": "P2"
+	},
+	{
+		"make": "Peace",
+		"model": "P20"
+	},
+	{
+		"make": "Peace",
+		"model": "P3"
+	},
+	{
+		"make": "Peace",
+		"model": "P9"
+	},
+	{
+		"make": "Peace",
+		"model": "P99"
+	},
+	{
+		"make": "Peace",
+		"model": "P4"
+	},
+	{
+		"make": "Philips",
+		"model": "Xenium E102A"
+	},
+	{
+		"make": "Poco",
+		"model": "M2 Pro"
+	},
+	{
+		"make": "Poco",
+		"model": "X2"
+	},
+	{
+		"make": "Poco",
+		"model": "F1"
+	},
+	{
+		"make": "Poco",
+		"model": "M2"
+	},
+	{
+		"make": "Poco",
+		"model": "X3"
+	},
+	{
+		"make": "Poco",
+		"model": "M2 "
+	},
+	{
+		"make": "Poco",
+		"model": "M2 Pro "
+	},
+	{
+		"make": "Poco",
+		"model": "X2 "
+	},
+	{
+		"make": "Poco",
+		"model": "X3 "
+	},
+	{
+		"make": "Poco",
+		"model": "F1 "
+	},
+	{
+		"make": "Q-Tel Mobiles",
+		"model": "Q7"
+	},
+	{
+		"make": "Realme",
+		"model": "2"
+	},
+	{
+		"make": "Realme",
+		"model": "1"
+	},
+	{
+		"make": "Realme",
+		"model": "2 Pro"
+	},
+	{
+		"make": "Realme",
+		"model": "C1"
+	},
+	{
+		"make": "Realme",
+		"model": "U1"
+	},
+	{
+		"make": "Realme",
+		"model": "5"
+	},
+	{
+		"make": "Realme",
+		"model": "C2"
+	},
+	{
+		"make": "Realme",
+		"model": "3 Pro"
+	},
+	{
+		"make": "Realme",
+		"model": "5 Pro"
+	},
+	{
+		"make": "Realme",
+		"model": "XT"
+	},
+	{
+		"make": "Realme",
+		"model": "X"
+	},
+	{
+		"make": "Realme",
+		"model": "X2"
+	},
+	{
+		"make": "Realme",
+		"model": "3"
+	},
+	{
+		"make": "Realme",
+		"model": "3i"
+	},
+	{
+		"make": "Realme",
+		"model": "5s"
+	},
+	{
+		"make": "Realme",
+		"model": "X2 Pro"
+	},
+	{
+		"make": "Realme",
+		"model": "X2 Pro Master Edition"
+	},
+	{
+		"make": "Realme",
+		"model": "C1 (2019)"
+	},
+	{
+		"make": "Realme",
+		"model": "5i"
+	},
+	{
+		"make": "Realme",
+		"model": "6"
+	},
+	{
+		"make": "Realme",
+		"model": "6 Pro"
+	},
+	{
+		"make": "Realme",
+		"model": "6i"
+	},
+	{
+		"make": "Realme",
+		"model": "C11"
+	},
+	{
+		"make": "Realme",
+		"model": "C3"
+	},
+	{
+		"make": "Realme",
+		"model": "Narzo 10"
+	},
+	{
+		"make": "Realme",
+		"model": "Narzo 10A"
+	},
+	{
+		"make": "Realme",
+		"model": "X3"
+	},
+	{
+		"make": "Realme",
+		"model": "X3 SuperZoom"
+	},
+	{
+		"make": "Realme",
+		"model": "X50 Pro"
+	},
+	{
+		"make": "Realme",
+		"model": "7"
+	},
+	{
+		"make": "Realme",
+		"model": "7 Pro"
+	},
+	{
+		"make": "Realme",
+		"model": "Narzo 20"
+	},
+	{
+		"make": "Realme",
+		"model": "Narzo 20A"
+	},
+	{
+		"make": "Realme",
+		"model": "Narzo 20 Pro"
+	},
+	{
+		"make": "Realme",
+		"model": "C12"
+	},
+	{
+		"make": "Realme",
+		"model": "C15"
+	},
+	{
+		"make": "Realme",
+		"model": "5i "
+	},
+	{
+		"make": "Realme",
+		"model": "6 Pro "
+	},
+	{
+		"make": "Realme",
+		"model": "6i "
+	},
+	{
+		"make": "Realme",
+		"model": "7i "
+	},
+	{
+		"make": "Realme",
+		"model": "C15 "
+	},
+	{
+		"make": "Realme",
+		"model": "C15 Qualcomm Edition "
+	},
+	{
+		"make": "Realme",
+		"model": "C15 Qualcomm Edition"
+	},
+	{
+		"make": "Realme",
+		"model": "C2 "
+	},
+	{
+		"make": "Realme",
+		"model": "Narzo 10A "
+	},
+	{
+		"make": "Realme",
+		"model": "Narzo 20 "
+	},
+	{
+		"make": "Realme",
+		"model": "Narzo 20 Pro "
+	},
+	{
+		"make": "Realme",
+		"model": "Narzo 20A "
+	},
+	{
+		"make": "Realme",
+		"model": "X3 SuperZoom "
+	},
+	{
+		"make": "Realme",
+		"model": "X50 Pro "
+	},
+	{
+		"make": "Realme",
+		"model": "2 Pro "
+	},
+	{
+		"make": "Realme",
+		"model": "5 Pro "
+	},
+	{
+		"make": "Realme",
+		"model": "5s "
+	},
+	{
+		"make": "Realme",
+		"model": "C1 (2019) "
+	},
+	{
+		"make": "Realme",
+		"model": "U1 "
+	},
+	{
+		"make": "Realme",
+		"model": "X2 Pro "
+	},
+	{
+		"make": "Realme",
+		"model": "X "
+	},
+	{
+		"make": "Realme",
+		"model": "XT "
+	},
+	{
+		"make": "Realme",
+		"model": "3i "
+	},
+	{
+		"make": "Realme",
+		"model": "3 Pro "
+	},
+	{
+		"make": "Rocktel",
+		"model": "R1"
+	},
+	{
+		"make": "Rocktel",
+		"model": "R5"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A5 SM-A500G"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A5-2016 SM-A510F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A5-2017 SM-A520F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A7 SM-A700Fd"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A7-2016 SM-A710F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A7-2017 SM-A720F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A8 Duos SM-A800I"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A9 Pro SM-A910F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Ace NXT SM-G313H"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Core Prime SM-G360FY"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Core Prime VE SM-G361H"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Grand Prime Plus SM-G532F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J1 2016 SM-J120G"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J1 Ace SM-J110"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J1 Mini Prime SM-J106H"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J1 Mini-2016 SM-J105H"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J1-2016 SM-J120F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J2 SM-J200F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J2 SM-J200G"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J2 SM-J200H 3G"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J2-2016 SM-J210F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J3 SM-J320F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J5 Prime SM-G570F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J5 SM-J500F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J5 SM-J500H 3G"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J5-2016 SM-J510F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J7 Prime SM-G610F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J7 SM-J700F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J7-2016 SM-J710F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Mega 2 SM-G750H"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Note 3 Neo SM-N750"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Note 3 SM-N9005"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Note 4 SM-N910G"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Note 5 Dual SM-N9208"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Note 5 SM-N920"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Note Edge SM-N915G"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy On5 SM-G550F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy On7 SM-G600F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S5 Duos SM-G900Fd"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S6 Edge SM-G925"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S6 SM-G920"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S7 Edge SM-G935F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S7 SM-G930F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Z2 SM-Z200F"
+	},
+	{
+		"make": "Samsung",
+		"model": "I9300I Galaxy S3 Neo"
+	},
+	{
+		"make": "Samsung",
+		"model": "I9500 Galaxy S4"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A5 SM-A500F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy C9 Pro SM-C900F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy E5 SM-E500H"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy E7 SM-E700H"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Grand Neo Plus I9060I"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Grand Prime 4G SM-G531F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Alpha SM-G850Y"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy C7 Pro SM-C701F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S5"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S8 Plus SM-G955F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S8 SM-G950F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Grand 2"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Grand Max SM-G7202"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Z4 SM-Z400F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J7 (2017) SM-J730F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J7 Pro SM-G615F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Note 2 GT-N7100"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S6 Edge Plus SM-G928G"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J7 (2016) SM-J108F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J7 Max Duos SM-G615F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J7 Nxt SM-J701F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J2 Ace SM-G532G"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Note 8 SM-N950F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J2 2016 SM-J210F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J5 2016 SM-J510F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy C5 SM-C5000F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J7 Pro Duos SM-J730F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy On7 Prime SM-G611F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A8 Plus SM-A730F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S9 Plus SM-G965F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S9 SM-G960F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J7 (2017) SM-J730G"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J2 (2018) SM-J250F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J7 duo SM-J720F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A6 Plus SM-A605F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A6 SM-A600F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J4 SM-J400F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J6 SM-J600F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J3 (2017) SM-J330F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J5 (2017) SM-J530F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J8 SM-J810F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A8 Star SM-G885F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J2 core SM-J260G"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J6 SM-J600G"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J7 2016 SM-J710F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Note 9 SM-N960F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J4 Plus SM-J415"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J8 SM-J810G"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A7 (2018) SM-A750F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J6 Plus SM-J610F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A9 SM-920F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S6 Duos SM-G920Fd"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy On7 Pro SM-G600FY"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A2 Core SM-A260F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J4 Plus SM-J415F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A10 SM-A105F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A10e SM-A102U"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A20 SM-A205F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A20s SM-A207F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M20 SM-M205F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M30 SM-M305F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A50 SM-A505F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A30s SM-A307F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A50s SM-A507F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M10 SM-M105F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A10s SM-A107F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S10 Plus SM-G975F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Note 10 SM-N970F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Note 10 Plus SM-N975F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M30s SM-M307F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A70 SM-A705F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A80 SM-A805F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A51 SM-A515F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Fold SM-F900F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J4 Core SM-J410F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A01 SM-A015G"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A30 SM-A305F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M40 SM-M405F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S10e SM-G970F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S10 SM-G973F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A70s SM-A707F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M10s SM-M107F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A60 SM-A6060"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A2 Core SM-A260G"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A21s SM-A217F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A31 SM-A315F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A71 SM-A715F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy J2 Core (2020) SM-J260G"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M01 SM-M015G"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M01s SM-M017F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M11 SM-M115F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M31 SM-M315F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M31s SM-M317F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Note 10 Lite SM-N770F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S10 Lite SM-G770F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S20 Plus SM-G985F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M21 SM-M215F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S20 Ultra SM-G988B"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Z Flip SM-F700F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A11 SM-A115F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S20 SM-G980F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M51"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A20s SM-A207F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A21s SM-A217F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A50 SM-A505F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A51 SM-A515F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy F41 SM-F415F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M01 Core SM-M013F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M11 SM-M115F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M21 SM-M215F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M30s SM-M307F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M31 Prime SM-M315F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M31 SM-M315F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M31s SM-M317F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M51 SM-M515F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Note 10 Lite SM-N770F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Note 10 Plus SM-N975F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Note 20 Ultra SM-N986B"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Note 9 SM-N960F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S10 Lite SM-G770F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S10e SM-G970F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S20 FE SM-G780F"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S9 Plus SM-G965F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Z Fold 2 SM-F916B "
+	},
+	{
+		"make": "Samsung",
+		"model": "Guru 1200"
+	},
+	{
+		"make": "Samsung",
+		"model": "Guru 1205"
+	},
+	{
+		"make": "Samsung",
+		"model": "Guru Music 2 SM-B310E"
+	},
+	{
+		"make": "Samsung",
+		"model": "Guru Plus SM-B110E"
+	},
+	{
+		"make": "Samsung",
+		"model": "Metro 313 SM-B313"
+	},
+	{
+		"make": "Samsung",
+		"model": "Metro B350E SM-B350E"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A50s SM-A507F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M10 SM-M105F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy Note 20 SM-N980B"
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S10 SM-G973F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A70s SM-A707F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S20 Plus SM-G985F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S9 SM-G960F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy M30 SM-M305F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy A7 (2018) SM-A750F "
+	},
+	{
+		"make": "Samsung",
+		"model": "Galaxy S10 Plus SM-G975F "
+	},
+	{
+		"make": "Shomi",
+		"model": "S150"
+	},
+	{
+		"make": "Shomi",
+		"model": "S100"
+	},
+	{
+		"make": "Shomi",
+		"model": "S125"
+	},
+	{
+		"make": "Shomi",
+		"model": "S155"
+	},
+	{
+		"make": "Sony",
+		"model": "Xperia X Dual F5122"
+	},
+	{
+		"make": "Sony",
+		"model": "Xperia XA Dual F3116"
+	},
+	{
+		"make": "Sony",
+		"model": "Xperia XA Ultra"
+	},
+	{
+		"make": "Sony",
+		"model": "Xperia C4 Dual E5363"
+	},
+	{
+		"make": "Sony",
+		"model": "Xperia M5 Dual E5663"
+	},
+	{
+		"make": "Sony",
+		"model": "Xperia XA1 G3116"
+	},
+	{
+		"make": "Sony",
+		"model": "Xperia XZs Dual G8232"
+	},
+	{
+		"make": "Sony",
+		"model": "Xperia XA1 Ultra Dual G3226"
+	},
+	{
+		"make": "Sony",
+		"model": "Xperia XZ Premium Dual G8142"
+	},
+	{
+		"make": "Sony",
+		"model": "Xperia XA1 Plus G3416"
+	},
+	{
+		"make": "Sony",
+		"model": "Xperia XZ1 G8342"
+	},
+	{
+		"make": "Sony",
+		"model": "Xperia R1 Plus G2299"
+	},
+	{
+		"make": "Sony",
+		"model": "Xperia R1 G2199"
+	},
+	{
+		"make": "Sony",
+		"model": "Xperia XZ Dual F8332"
+	},
+	{
+		"make": "Sony",
+		"model": "Xperia L2 Dual H4331"
+	},
+	{
+		"make": "Sony",
+		"model": "Xperia XZ2 H8296"
+	},
+	{
+		"make": "Spice",
+		"model": "Xlife 450Q"
+	},
+	{
+		"make": "Spice",
+		"model": "Xlife 514Q"
+	},
+	{
+		"make": "Spice",
+		"model": "Xlife 515Q"
+	},
+	{
+		"make": "Spice",
+		"model": "Xplore 525Q"
+	},
+	{
+		"make": "Spice",
+		"model": "F301"
+	},
+	{
+		"make": "Spice",
+		"model": "F302"
+	},
+	{
+		"make": "Spice",
+		"model": "K601"
+	},
+	{
+		"make": "Spice",
+		"model": "V801"
+	},
+	{
+		"make": "Spice",
+		"model": "F305"
+	},
+	{
+		"make": "Spice",
+		"model": "F311"
+	},
+	{
+		"make": "Tecno",
+		"model": "Camon 12 Air"
+	},
+	{
+		"make": "Tecno",
+		"model": "Camon 15"
+	},
+	{
+		"make": "Tecno",
+		"model": "Camon 15 Pro"
+	},
+	{
+		"make": "Tecno",
+		"model": "Camon I Ace 2"
+	},
+	{
+		"make": "Tecno",
+		"model": "Camon i4"
+	},
+	{
+		"make": "Tecno",
+		"model": "Camon i4 "
+	},
+	{
+		"make": "Tecno",
+		"model": "Camon iAce 2X"
+	},
+	{
+		"make": "Tecno",
+		"model": "Phantom 9"
+	},
+	{
+		"make": "Tecno",
+		"model": "Spark 4 "
+	},
+	{
+		"make": "Tecno",
+		"model": "Spark 4 Air"
+	},
+	{
+		"make": "Tecno",
+		"model": "Spark 5"
+	},
+	{
+		"make": "Tecno",
+		"model": "Spark Go"
+	},
+	{
+		"make": "Tecno",
+		"model": "Spark Go Plus"
+	},
+	{
+		"make": "Tecno",
+		"model": "Spark Power"
+	},
+	{
+		"make": "Tecno",
+		"model": "Spark Power 2"
+	},
+	{
+		"make": "TMB Mobile",
+		"model": "T1"
+	},
+	{
+		"make": "TMB Mobile",
+		"model": "T2"
+	},
+	{
+		"make": "TMB Mobile",
+		"model": "T3"
+	},
+	{
+		"make": "TMB Mobile",
+		"model": "A2"
+	},
+	{
+		"make": "TMB Mobile",
+		"model": "T2i"
+	},
+	{
+		"make": "TMB Mobile",
+		"model": "T5"
+	},
+	{
+		"make": "TMB Mobile",
+		"model": "T6"
+	},
+	{
+		"make": "TMB Mobile",
+		"model": "T7"
+	},
+	{
+		"make": "TMB Mobile",
+		"model": "T10"
+	},
+	{
+		"make": "TMB Mobile",
+		"model": "T4"
+	},
+	{
+		"make": "TMB Mobile",
+		"model": "T8"
+	},
+	{
+		"make": "TMB Mobile",
+		"model": "T9"
+	},
+	{
+		"make": "Tork",
+		"model": "Hexa"
+	},
+	{
+		"make": "Tork",
+		"model": "T01"
+	},
+	{
+		"make": "Tork",
+		"model": "T3 Pro"
+	},
+	{
+		"make": "Tork",
+		"model": "X11"
+	},
+	{
+		"make": "Tork",
+		"model": "X3 Plus"
+	},
+	{
+		"make": "Tork",
+		"model": "Max 1"
+	},
+	{
+		"make": "Tork",
+		"model": "Max 2"
+	},
+	{
+		"make": "Tork",
+		"model": "X1"
+	},
+	{
+		"make": "Tork",
+		"model": "X10"
+	},
+	{
+		"make": "Tork",
+		"model": "X5s"
+	},
+	{
+		"make": "Trusme",
+		"model": "R75"
+	},
+	{
+		"make": "Trusme",
+		"model": "T66"
+	},
+	{
+		"make": "Unbranded",
+		"model": "Others"
+	},
+	{
+		"make": "Videocon",
+		"model": "Cube 3"
+	},
+	{
+		"make": "Videocon",
+		"model": "Graphite 1 V45E"
+	},
+	{
+		"make": "Videocon",
+		"model": "Krypton 2 V50GI"
+	},
+	{
+		"make": "Videocon",
+		"model": "Krypton V50FA"
+	},
+	{
+		"make": "Videocon",
+		"model": "Krypton V50FG"
+	},
+	{
+		"make": "Videocon",
+		"model": "Krypton3 V50JG"
+	},
+	{
+		"make": "Videocon",
+		"model": "Q1 V500K"
+	},
+	{
+		"make": "Videocon",
+		"model": "Z55 Krypton"
+	},
+	{
+		"make": "Videocon",
+		"model": "Delight 21"
+	},
+	{
+		"make": "Videocon",
+		"model": "Ultra 30"
+	},
+	{
+		"make": "Videocon",
+		"model": "Delite 11"
+	},
+	{
+		"make": "Videocon",
+		"model": "Krypton 22"
+	},
+	{
+		"make": "Videocon",
+		"model": "Krypton 30"
+	},
+	{
+		"make": "Videocon",
+		"model": "Krypton 22 Plus"
+	},
+	{
+		"make": "Videocon",
+		"model": "Delite 11 Plus"
+	},
+	{
+		"make": "Videocon",
+		"model": "Metal Pro 1"
+	},
+	{
+		"make": "Videocon",
+		"model": "Metal Pro 2"
+	},
+	{
+		"make": "Viva",
+		"model": "V2"
+	},
+	{
+		"make": "Viva",
+		"model": "V2 Plus"
+	},
+	{
+		"make": "Vivo",
+		"model": "V5"
+	},
+	{
+		"make": "Vivo",
+		"model": "V5 Plus"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y21L"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y51L"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y55L"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y53"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y55S"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y66"
+	},
+	{
+		"make": "Vivo",
+		"model": "V5S"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y21"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y69"
+	},
+	{
+		"make": "Vivo",
+		"model": "V7 Plus"
+	},
+	{
+		"make": "Vivo",
+		"model": "V3"
+	},
+	{
+		"make": "Vivo",
+		"model": "V7"
+	},
+	{
+		"make": "Vivo",
+		"model": "V9 Youth"
+	},
+	{
+		"make": "Vivo",
+		"model": "V9"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y71"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y83"
+	},
+	{
+		"make": "Vivo",
+		"model": "X21"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y53i"
+	},
+	{
+		"make": "Vivo",
+		"model": "Nex"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y71i"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y81"
+	},
+	{
+		"make": "Vivo",
+		"model": "Z10"
+	},
+	{
+		"make": "Vivo",
+		"model": "V11"
+	},
+	{
+		"make": "Vivo",
+		"model": "V11 pro"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y85"
+	},
+	{
+		"make": "Vivo",
+		"model": "V9 Pro"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y81i"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y83 Pro"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y95"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y91"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y93"
+	},
+	{
+		"make": "Vivo",
+		"model": "U10"
+	},
+	{
+		"make": "Vivo",
+		"model": "U20"
+	},
+	{
+		"make": "Vivo",
+		"model": "Z1 Pro"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y19"
+	},
+	{
+		"make": "Vivo",
+		"model": "Z1x"
+	},
+	{
+		"make": "Vivo",
+		"model": "S1"
+	},
+	{
+		"make": "Vivo",
+		"model": "S1 Pro"
+	},
+	{
+		"make": "Vivo",
+		"model": "V15 Pro"
+	},
+	{
+		"make": "Vivo",
+		"model": "V15"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y91i"
+	},
+	{
+		"make": "Vivo",
+		"model": "V17"
+	},
+	{
+		"make": "Vivo",
+		"model": "V17 Pro"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y11"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y17"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y90"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y12"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y15 (2019)"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y15 Pro"
+	},
+	{
+		"make": "Vivo",
+		"model": "V19"
+	},
+	{
+		"make": "Vivo",
+		"model": "X50"
+	},
+	{
+		"make": "Vivo",
+		"model": "X50 Pro"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y11 (2019)"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y30"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y50"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y20"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y20i"
+	},
+	{
+		"make": "Vivo",
+		"model": "S1 "
+	},
+	{
+		"make": "Vivo",
+		"model": "U20 "
+	},
+	{
+		"make": "Vivo",
+		"model": "V15 Pro "
+	},
+	{
+		"make": "Vivo",
+		"model": "V19 "
+	},
+	{
+		"make": "Vivo",
+		"model": "V20 "
+	},
+	{
+		"make": "Vivo",
+		"model": "V20 SE"
+	},
+	{
+		"make": "Vivo",
+		"model": "Y71 "
+	},
+	{
+		"make": "Vivo",
+		"model": "Y81 "
+	},
+	{
+		"make": "Vivo",
+		"model": "Z1 Pro "
+	},
+	{
+		"make": "Vivo",
+		"model": "Y91i "
+	},
+	{
+		"make": "Vivo",
+		"model": "Y12 "
+	},
+	{
+		"make": "Vivo",
+		"model": "U10 "
+	},
+	{
+		"make": "Vivo",
+		"model": "Z1x "
+	},
+	{
+		"make": "Vivo",
+		"model": "Y15 (2019) "
+	},
+	{
+		"make": "Vow",
+		"model": "V104"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Mi 5"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Mi Max"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Mi Max Prime"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Redmi 3S"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Redmi 3S Prime"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Redmi Note 3"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Redmi Note 4"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Redmi 4A"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Redmi 4"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Mi Max 2"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Mi A1"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Mi Mix 2"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Redmi 5A"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Redmi Y1"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Redmi Y1 Lite"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Redmi 5"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Redmi Note 5"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Redmi Note 5 Pro"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Redmi Y2"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Mi A2"
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Poco F1 "
+	},
+	{
+		"make": "Xiaomi",
+		"model": "Redmi 6"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 6 Pro"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 6A"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Note 6 Pro"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Go"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 7A"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Note 7S"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Note 7 Pro"
+	}, {
+		"make": "Xiaomi",
+		"model": "Mi A3"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Note 8"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Note 8 Pro"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi K20"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi K20 Pro"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 8A"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 8"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Y3"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Note 7"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 7"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 8A Dual"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 9 Prime"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Note 9"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Note 9 Pro"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Note 9 Pro Max"
+	}, {
+		"make": "Xiaomi",
+		"model": "Mi 10"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 9A"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 9i"
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 9"
+	}, {
+		"make": "Xiaomi",
+		"model": "Mi 10T "
+	}, {
+		"make": "Xiaomi",
+		"model": "Mi 10T Pro "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 8A Dual "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 9 "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 9 Prime "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 9A "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 9i "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi K20 Pro "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Note 9 "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Note 9 Pro "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Note 9 Pro Max "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Note 8 "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Note 8 Pro "
+	}, {
+		"make": "Xiaomi",
+		"model": "Mi A3 "
+	}, {
+		"make": "Xiaomi",
+		"model": "Mi 10 "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 8A "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Go "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi K20 "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 7A "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Note 7 Pro "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Y3 "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi 7 "
+	}, {
+		"make": "Xiaomi",
+		"model": "Redmi Note 7 "
+	}, {
+		"make": "ZTE",
+		"model": "Blade A2 Plus"
+	}, {
+		"make": "ZTE",
+		"model": "Nubia N1 (NX541J)"
+	}, {
+		"make": "ZTE",
+		"model": "Nubia Z11 (NX531J)"
+	}, {
+		"make": "ZTE",
+		"model": "Nubia Z11 Mini (NX529J)"
+	}, {
+		"make": "ZTE",
+		"model": "Blade V6"
+	}, {
+		"make": "ZTE",
+		"model": "Nubia Z11 Mini S"
+	}, {
+		"make": "ZTE",
+		"model": "Nubia M2 Lite"
+	}, {
+		"make": "ZTE",
+		"model": "Nubia N1 Lite"
+	}, {
+		"make": "ZTE",
+		"model": "Nubia Z17 Mini"
+	}, {
+		"make": "ZTE",
+		"model": "Blade A110"
+	}, {
+		"make": "ZTE",
+		"model": "Blade V7 Lite"
+	}, {
+		"make": "ZTE",
+		"model": "Nubia M2 (NX551J)"
+	}, {
+		"make": "ZTE",
+		"model": "Nubia N2 (NX575J)"
+	}, {
+		"make": "ZTE",
+		"model": "Blade A910"
+	}, {
+		"make": "ZTE",
+		"model": "Blade A601"
+	}, {
+		"make": "ZTE",
+		"model": "Nubia M2 Play"
+	}, {
+		"make": "ZTE",
+		"model": "Blade V7 Max"
+	}, {
+		"make": "ZTE",
+		"model": "Blade V8 Mini"
+	}, {
+		"make": "ZTE",
+		"model": "Nubia Red Magic (NX609J)"
+	}, {
+		"make": "ZTE",
+		"model": "Nubia Red Magic 3s (NX629J)"
+	}, {
+		"make": "ZTE",
+		"model": "Nubia Red Magic 3 (NX629J)"
+	}
+]

@@ -1,0 +1,3371 @@
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	  -webkit-transition: all 0.30s ease-in-out;
+  -moz-transition: all 0.30s ease-in-out;
+  -ms-transition: all 0.30s ease-in-out;
+  -o-transition: all 0.30s ease-in-out;
+}
+
+ol {
+	margin: 0;
+}
+
+ul, li{
+	margin: 0;
+	list-style: none;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+html, body {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+@font-face {
+	font-family:'Qualcomm Next';
+	src: url('../qualcomm-fonts/QualcommNext-Regular.woff')format('woff');
+	font-family: "Qualcomm Next";
+}
+
+@font-face {
+	font-family:'Qualcomm Next Medium';
+	src: url('../qualcomm-fonts/QualcommNext-Medium.woff')format('woff');
+	font-family: "Qualcomm Next Medium";
+}
+
+body {
+	font-family:'Qualcomm Next';
+	font-weight: 100;
+}
+
+img {
+	max-width: 100%;
+}
+
+a {
+	text-decoration: none !important;
+}
+
+.full-height {
+	height: 100%;
+}
+
+.btn-primary {
+	border-radius: 25px;
+	font-size: 16px;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: normal;
+	background: #3253dc;
+	border: none !important;
+}
+
+.btn-primary:hover {
+	background-color: rgb(28, 55, 165);
+}
+
+.btn-primary.focus, .btn-primary:focus {
+	box-shadow: none;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+	background-color: rgb(28, 55, 165);	
+}
+
+.form-box {
+	margin: 120px 40px 0 100px;
+	position: relative;
+	height: 87.3%;
+}
+
+.main-heading {
+	font-family:'Qualcomm Next';
+	margin: 0;
+	font-size: 36px;
+	font-weight: 100;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #0b2742;
+	/*color: var(--dark-indigo);*/
+}
+
+.form-box form {
+	margin-top: 40px;
+}
+
+.form-box .form-group {
+	position: relative;
+}
+
+.lbl-txt {
+	color: #0b2742;
+	opacity: 0.5;
+	margin-bottom: 0px;
+	font-family:'Qualcomm Next';
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	position: absolute;
+	left: 20px;
+	font-size: 17px;
+	top: 17px;
+}
+
+.text-box {
+	font-size: 1.0625em;
+	width: 100%;
+	padding-left: 20px;
+	border: 1px solid rgba(70, 90, 119, 0.2);
+	color: #0b2742;
+	font-family:'Qualcomm Next';
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	height: 56px;
+	border-radius: 5px;
+}
+
+.text-box:focus {
+	outline: none;
+	border: 1px solid #465a77;
+}
+
+.svelte-tags-input {
+	font-size: 1.0625em;
+	min-height: 48px;
+	width: 100%;
+	padding-left: 20px;
+	border: 1px solid rgba(70, 90, 119, 0.2);
+	color: #0b2742;
+	font-family:'Qualcomm Next';
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	border-radius: 5px;
+}
+
+.svelte-tags-input:focus {
+	outline: none;
+	border: 1px solid #465a77;
+}
+
+.form-box .text-muted {
+	font-family:'Qualcomm Next';
+	color: #8393aa !important;
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.btn-section {
+	margin-top: 40px;
+}
+
+.resend-txt {
+	font-family: 'Qualcomm Next';
+	color: #677790;
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+}
+
+.resend-otp {
+	font-family: "Qualcomm Next Medium";
+	color: #3253dc !important;
+}
+
+.verify-btn, .submit-btn {
+	/*border: none !important;*/
+	/*background: #3253dc !important;*/
+	margin-right: 20px;
+	border-radius: 25px;
+	min-width: 140px;
+	text-align: center;
+	/*padding: 0 16px;*/
+}
+
+.verify-btn:not(:disabled):not(.disabled).active:focus, 
+.verify-btn:not(:disabled):not(.disabled):active:focus, 
+.show>.verify-btn.dropdown-toggle:focus,
+.submit-btn:not(:disabled):not(.disabled).active:focus, 
+.submit-btn:not(:disabled):not(.disabled):active:focus, 
+.show>.submit-btn.dropdown-toggle:focus {
+	box-shadow: none;
+}
+
+.brand-section {
+	background: #3253dc;
+	height: 100%;
+}
+
+
+
+.info-txt p {
+	opacity: 0.4;
+	letter-spacing: 0;
+	font-family: 'Qualcomm Next';
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.2;
+	letter-spacing: normal;
+	color: #465a77;
+}
+
+.no-margin {
+	margin: 0 !important;
+}
+
+.terms-txt {
+	color: #3253dc;
+}
+
+.detail-box form {
+	margin-top: 20px;
+}
+
+.submit-btn {
+	/* background-color:#CED4D8;
+	 border-color: #CED4D8;*/
+}
+
+.back-to-home-btn {
+	background-color: #ffffff !important;
+	color: #3253dc !important;
+	/* border-color: #3253dc !important; */
+	border: 1px solid #3253dc !important;
+}
+
+.terms-text {
+	margin: 20px 0 10px 0;
+}
+
+.successful-reg-text {
+	font-family:'Qualcomm Next';
+	font-weight: 400;
+	font-style: normal;
+	color: #677790;
+	line-height: 27px;
+	font-size: 18px;
+	letter-spacing: 0;
+}
+
+.email-error-message {
+	color:#ff5151;
+	width: 440px;
+	height: 17px;
+	font-size: 17px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	margin: 10px 0 0 5px;
+}
+
+.detail-box form .text-box {
+	padding-top: 0;
+}
+
+/* policy style */
+
+.policy-text {
+	color: #0b2742;
+	margin: 0 auto;
+}
+
+.policy-name {
+	font-size: 2rem;
+	font-weight: 400;
+	margin-top: 20px;
+}
+
+.policy, .privacy-text {
+	font-size: 14px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.5;
+	letter-spacing: normal;
+	margin-top: 40px;
+}
+
+.privacy-text {
+	margin-top: 0;
+}
+
+.select-box {
+	padding-top: 0;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	background: #fff;
+	color:#838383;
+	padding-right: 16px;
+}
+
+.margin-zero {
+	margin: 0 !important;
+}
+
+.p-40 {
+	padding: 40px;
+}
+
+.main-banner {
+		height: 200px;
+		background: #3253dc;
+	}
+
+.main-content {
+	margin-bottom: 120px;
+}
+
+.main-title {
+	margin: 0;
+	line-height: 200px;
+	color: #fff;
+	font-size: 42px;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: normal;
+	text-align: center;
+}
+
+.finals-text {
+	font-size: 1.5em;
+	color: #e04f4f;
+	text-transform: uppercase;
+}
+
+/* .give-away-main {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	max-width: 70%;
+	width: 100%;
+	margin: 0 auto;
+} */
+
+.profile-menu {
+	height: 56px;
+	margin-bottom: 40px;
+	line-height: 56px;
+	text-align: center;
+	box-shadow: 0 1px 0 0 rgba(11, 39, 66, 0.1);
+}
+
+.profile-menu li {
+	display: inline-block;
+	list-style: none;
+}
+
+.profile-menu ul li a {
+	text-decoration: none;
+	margin: 0 19px;
+	color: #677790;
+	font-size: 16px;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.5px;
+}
+
+.profile-menu ul li.active a {
+	color: #000000;
+}
+
+.profil-info li {
+	display: block;
+	text-align: center;
+	list-style: none;
+	margin-bottom: 40px;
+}
+
+.profil-info li img {
+	display: inline-block;
+	margin-bottom: 20px;
+}
+
+.profil-info li strong {
+	width: 100%;
+	margin-bottom: 10px;
+	color: #465a77;
+	font-size: 20px;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	display: block;
+	clear: both;
+}
+
+.profil-info li span {
+	width: 100%;
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #000000;
+	display: block;
+	clear: both;
+}
+
+.profile-pic-md {
+	width: 200px;
+	/*height: 200px;*/
+}
+
+.rounded {
+	border-radius: 50% !important;
+}
+
+.plain-btn {
+	min-width: 220px;
+	font-size: 16px;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #3253dc;
+	background: none !important;
+	height: 50px;
+	border-radius: 25px;
+	border: solid 2px #3253dc;
+}
+
+.border-right {
+	border-right: 1px solid rgba(70, 90, 119, 0.2);
+}
+
+.survey-block {
+	padding-left: 40px;
+	border-radius: 10px;
+	background: rgba(131, 147, 170, 0.1);
+}
+
+.survey-txt {
+	color: #465a77;
+	font-family: "Qualcomm Next Medium";
+	padding-top: 50px;
+	font-size: 16px;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.survey-block h4 {
+	color: #3253dc;
+	margin-top: 10px;
+	font-size: 24px;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.survey-info-txt {
+	padding-bottom: 35px;
+	color: #465a77;
+	font-size: 14px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.survey-link {
+	position: relative;
+	text-decoration: none;
+	color: #3253dc;
+	display: block;
+	margin-bottom: 50px;
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.survey-link span, .survey-link .material-icons {
+	margin-left: 6px;
+	font-size: 16px;
+	display: inline-block;
+	position: absolute;
+	top: 5px;
+}
+
+.team-box {
+	padding: 40px;
+	min-height: 176px;
+	border-radius: 10px;
+	margin-top: 20px;
+	background: rgba(131, 147, 170, 0.1);
+}
+
+.team-title {
+	font-size: 20px;
+	display: block;
+	margin-bottom: 10px;
+	color: #0b2742;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.team-description {
+	color: #0b2742;
+	font-size: 14px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.pl-50 {
+	padding-left: 50px !important;
+}
+
+.find-a-team-link {
+	font-size: 20px;
+	position: relative;
+	text-decoration: none;
+	color: #3253dc;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.find-a-team-link span {
+	position: absolute;
+	font-weight: normal;
+	top: 3px;
+}
+
+.team-name {
+	padding: 8px 20px;
+	padding-top: 25px;
+	background: rgba(131, 147, 170, 0.1);
+	width: 100%;
+	color: #0b2742;
+	border-radius: 5px;
+	border: solid 1px #465a77;
+	font-size: 17px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.team-name span {
+	font-size: 12px;
+	margin-bottom: 5px;
+	display: block;
+	width: 100%;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #838383;
+}
+
+.find-team {
+	min-height: 119px;
+}
+
+.box-right {
+	height: 95%;
+}
+
+.profile-pic-sm {
+	width: 120px;
+	height: 120px;
+}
+
+.banner {
+	background: url("../images/banner.png") no-repeat center;
+	background-size: 100% 100%; 
+	height: 200px;
+}
+
+.upload-img {
+	margin-bottom: 20px;
+	background: rgba(131, 147, 170, 0.1);
+	position: relative;
+	border: 1px dashed #465a77; 
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+}
+
+.upload-img .bg-icon {
+	background: url('../images/white-player.png') no-repeat center;
+	background-size: 100% 100%;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	left: 0;
+	opacity: 0.5;
+}
+
+.upload-img .material-icons {
+	font-size: 67px;
+	color: #3253dc;
+	position: absolute;
+	top: 47%;
+	transform: translate(-50%, -50%);
+	left: 50%;
+}
+
+.upload-img strong {
+	font-size: 14px;
+	margin-bottom: 20px;
+	color: #3253dc;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	position: absolute;
+	top: 77%;
+	transform: translate(-50%, -68%);
+	left: 50%;
+}
+
+.survey-bg {
+	background: url("../images/img-survey.png") no-repeat center;
+	background-size: cover;
+}
+
+.in-game-qualifier {
+	background: rgba(131, 147, 170, 0.1) url("../images/img-widget-team.png") no-repeat center;
+	background-size: cover;
+	background-position: 100%;
+}
+
+.position-relative {
+	position: relative;
+}
+
+.no-padding {
+	padding: 0 !important;
+}
+
+.d-block {
+	display: block;
+}
+
+.mt-60 {
+	margin-top: 60px;
+}
+
+.mt-40 {
+	margin-top: 40px !important;
+}
+
+.mb-40 {
+	margin-bottom: 40px !important;
+}
+
+.requestie-details {
+	padding: 20px 0;
+	border-bottom: 1px solid rgba(103, 119, 144, 0.5);
+}
+
+.requestie-name {
+	font-size: 20px;
+	margin-bottom: 10px;
+	display: block;
+	width: 100%;
+	color: #0b2742;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.requestie-mail {
+	font-size: 16px;
+	display: block;
+	width: 100%;
+	color: #677790;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.svelte-modal-header {
+	/*margin-bottom: 36px;*/
+}
+
+.popup-title {
+	font-size: 24px;
+	color: #0b2742;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.request-info-txt {
+	font-size: 16px;
+	color: #0b2742;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.25;
+	letter-spacing: normal;
+}
+
+.add-btn span {
+	color: #3253dc;
+	margin-right: 10px;
+	font-size: 26px;
+}
+
+.remove-btn span {
+	color: #3253dc;
+	font-size: 26px;
+}
+
+.cancel-btn {
+	font-size: 16px;
+	min-width: 90px;
+	height: 40px;
+	border-radius: 25px;
+	border: solid 2px #3253dc;
+	color: #3253dc;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: normal;
+}
+
+.requestie-details.last {
+	border-bottom: none;
+}
+
+.secondary-btn {
+	font-size: 16px;
+	color: #3253dc;
+	border-radius: 25px;
+	border: solid 2px #3253dc;
+	height: 40px;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: normal;
+}
+
+.btn {
+	padding: .5rem 1.25rem;
+}
+
+.invitation-code {
+	height: 56px;
+	padding: 0 10px 0 20px;
+	line-height: 56px;
+	color: #3253dc;
+	border-radius: 5px;
+	border: 2px dashed #465a77;
+	font-size: 24px;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 1px;
+}
+
+/*{
+	background: rgba(50, 83, 220, 0.9);
+}*/
+
+.btn[disabled] {
+	background: rgba(11, 39, 66, 0.2);
+}
+
+/* Register-btn */
+
+.register-btn {
+	width: 300px;
+	text-decoration: none;
+	margin-bottom: 20px;
+	border-radius: 25px;
+	font-size: 16px;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: normal;
+	text-align: center;
+	display: inline-block;
+}
+
+.register-text {
+	font-size: 16px;
+	color: #8393aa;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+}
+
+.register-text a {
+	font-family: "Qualcomm Next Medium";
+	color: #3253dc;
+	text-decoration: none;
+}
+
+.lbl-txt {
+	transition:0.2s ease all; 
+	-moz-transition:0.2s ease all; 
+	-webkit-transition:0.2s ease all;
+}
+
+.text-box:focus ~ label, .text-box:not(:placeholder-shown) ~ label {
+  top: 6px;
+  font-size: 12px;
+  opacity: 1;
+  color: #838383;
+}
+
+/*.floating-select:focus ~ label , .floating-select:not([value=""]):valid ~ label {
+  top:-18px;
+}*/
+
+/* active state */
+.text-box:focus ~ .bar:before, .text-box:focus ~ .bar:after, .floating-select:focus ~ .bar:before, .floating-select:focus ~ .bar:after {
+  width:50%;
+}
+
+.text-box:focus ~ .highlight , .floating-select:focus ~ .highlight {
+  -webkit-animation:inputHighlighter 0.3s ease;
+  -moz-animation:inputHighlighter 0.3s ease;
+  animation:inputHighlighter 0.3s ease;
+}
+
+/* .col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto {
+	padding-right: 10px;
+	padding-left: 10px;
+} */
+
+.dropdown .material-icons {
+	font-size: 16px;
+	color: #3253dc;
+}
+
+.team-actions-dropdown .material-icons {
+	font-size: 24px;
+}
+
+.mt-20 {
+	margin-top: 20px !important;
+}
+
+
+.player {
+	/*min-width: 120px;*/
+}
+
+.video-thumb {
+	width: 460px;
+	overflow: hidden;
+	border-radius: 15px;
+	margin: 0 auto;
+	position: relative;
+	height: 270px;
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), #000000 92%);
+}
+
+.video-thumbnail {
+	z-index: 1;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	right: 0;
+	top: 0;
+}
+
+.play-btn {
+	width: 74px;
+	z-index: 999;
+	height: 74px;
+	background: #fff;
+	display: inline-block;
+	border-radius: 50%;
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	left: 50%;
+}
+
+.play-btn span {
+	font-size: 40px;
+	line-height: 74px;
+	color: rgba(0,0,0, 0.92);
+}
+
+.bottom-section {
+	position: absolute;
+	bottom: 20px;
+	width: 98%;
+	left: 26px;
+}
+
+.bottom-section ul li {
+	display: inline-block;
+	margin-right: 10px;	
+}
+
+.bottom-section ul li a {
+	color: #fff;
+	font-family: 'Qualcomm Next';
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+
+.right-side-links {
+	margin-top: 80px;
+}
+
+.right-side-links ul li {
+	display: inline-block;
+	margin-right: 10px;	
+}
+
+.right-side-links {
+	display: none;
+	border-top: 1px solid rgba(103, 119, 144, 0.5);
+}
+
+.right-side-links ul {
+	margin-top: 20px;
+}
+
+.right-side-links ul li a {
+	font-size: 12px;
+	margin-top: 20px;
+	color: #465a77;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: right;
+}
+
+.copyrights-txt {
+	color: #fff;
+	margin-top: 10px;
+	font-family: 'Qualcomm Next';
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.bg-img {
+	background: #0b2742;
+	/*background: url("../images/register.png") no-repeat center;*/
+	height: 100%;
+	background-size: cover;
+}
+
+.hero-image img {
+	float: right;
+}
+
+.bg-img {
+	/*position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: -1;*/
+}
+
+.bg-img img {
+	position: absolute;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	left: 50%;
+	width: 370px;
+}
+
+.free-fire-logo {
+	margin-top: 5em;
+}
+
+.video-info {
+	position: absolute;
+	z-index: 9999;
+	bottom: 10px;
+	left: 0;
+	padding: 0 20px;
+}
+
+.video-info h6 {
+	font-size: 20px;
+	color: #fff;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.video-info .date-txt {
+	font-size: 16px;
+	color: rgba(255, 255, 255, 0.5);
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.video-thumbnail img {
+	height: 100%;
+}
+
+.contest-text h6 {
+	font-size: 18px;
+	font-family: 'Qualcomm Next Medium';
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.contest-text h1 {
+	font-size: 42px;
+	font-family: 'Qualcomm Next Medium';
+	margin-bottom: 40px;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.contest-text p {
+	font-size: 16px;
+	margin-bottom: 40px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.5;
+	letter-spacing: normal;
+}
+
+.contest-text .btn-section {
+	margin-bottom: 80px;
+}
+
+.terms-note {
+	font-size: 12px;
+	margin-top: 15px;
+	color: rgba(255, 255, 255, 0.5);
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.format-details .format-title, .format-details .format-text  {
+	display: none;
+}
+/* 
+.format-details .active-state .progress-info p, 
+.format-details .active-state .progress-info h6 {
+	color: #fff !important;
+}
+
+.format-details .progress-info h6, .format-details .progress-info p {
+	 color: #fff !important;
+} */
+
+.format-details .survey-link {
+	display: none;
+}
+
+.format-details .register-btn {
+	background: #fff;
+	color: #3253dc;
+}
+
+.format-details .register-text,
+.format-details .register-text a {
+	color: #fff;
+}
+
+.format-details .banner-bttom.mt-40 {
+	margin-top: 0 !important;
+}
+
+/*home page css*/
+
+.banner-bttom {
+	text-align: center;
+	align-items: center;
+}
+
+.register-btn {
+	width: 300px;
+	text-decoration: none;
+	margin-bottom: 20px;
+	border-radius: 25px;
+	font-size: 16px;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: normal;
+	text-align: center;
+	display: inline-block;
+}
+
+.register-text {
+	font-size: 16px;
+	color: #8393aa;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+}
+
+.register-text a {
+	font-family: "Qualcomm Next Medium";
+	color: #3253dc;
+	text-decoration: none;
+}
+
+.prize-box {
+	background: #0b2742;
+	min-height: 675px;
+	padding-bottom: 60px;
+}
+
+.torunament-info-block {
+	margin-top: -11.3em;
+}
+
+.torunament-info-block h6 {
+	font-size: 18px;
+	font-family:'Qualcomm Next Medium';
+	color: #fff;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+}
+
+.torunament-info-block h1 {
+	font-size: 42px;
+	font-family:'Qualcomm Next Medium';
+	margin-bottom: 20px;
+	color: #fff;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+}
+
+.torunament-info-block p {
+	opacity: 0.5;
+	max-width: 39em;
+	margin: auto;
+	color: #fff;
+	font-size: 18px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.5;
+	letter-spacing: normal;
+	text-align: center;
+}
+
+/*{
+	background: #fff;
+	border-radius: 50%;
+	 padding: 20px; 
+	font-size: 40px;
+	color: rgba(0,0,0, 0.8);
+}*/
+
+.content-wrapper {
+	text-align: center;
+	padding: 20px 0 40px 0;
+}
+
+.free-fire-block h6 {
+	font-size: 20px;
+	/* margin-top: 70px; */
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 8px;
+	text-align: center;
+	color: #0b2742;
+}
+
+.bar-line {
+	display: inline-block;
+}
+
+.bar-line small {
+	width: 140px;
+	display: block;
+	height: 2px;
+	opacity: 0.5;
+	background: #0b2742;
+}
+
+.winner-label {
+	font-size: 24px;
+	font-family:'Qualcomm Next Medium';
+	color: #8393aa;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	line-height: 1;
+}
+
+.price-txt {
+	font-size: 2.6em;
+	color: #e04f4f;
+	font-family:'Qualcomm Next Medium';
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	/* margin-top: 40px; */
+}
+
+/* .free-fire-logo img {
+	max-width: 200px;
+} */
+
+.main-section {
+	/* height: 850px; */
+	position: relative;
+	background: url('../images/home-banner.png') no-repeat center;
+	background-size: cover;
+}
+
+.home-page-static {
+	min-height: 100vh !important;
+	height: auto !important;
+}
+
+.home-page-static .content-wrapper {
+	padding-bottom: 0;
+}
+
+.game-pic {
+	background: url("../images/game-pic.png") no-repeat left top;
+	width: 25%;
+	height: 100%;
+	background-size: cover;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+
+.game-pic-right {
+	background: url("../images/char-right.png") no-repeat right top;
+	background-size: cover;
+	left: unset;
+	right: 0;
+	bottom: 0;
+}
+
+.format-title {
+	font-size: 42px;
+	color: #0b2742;
+	font-family:'Qualcomm Next Medium';
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+}
+
+.format-section {
+	padding: 0 75px;
+	line-height: 27px;
+	font-size: 18px;
+	margin-bottom: 40px;
+	font-weight: 400;
+}
+
+.torunament-info-block {
+	/*margin-top: -7.3em;*/
+	padding-top: 60px;
+}
+
+.data-text {
+	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+	z-index: -1;
+	font-size: 11.25rem;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #081f35;
+}
+
+.torunament-text {
+	margin: 80px 0 0 0;
+}
+
+.torunament-text h4 {
+	font-size: 1.125rem;
+	margin-top: 27px;
+	font-family:'Qualcomm Next Medium';
+	font-size: 18px;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.compete-content {
+	font-size: 14px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.5;
+	letter-spacing: normal;
+}
+
+.know-more-link {
+	font-size: 16px;
+	display: block;
+	margin-top: 25px;
+	position: relative;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.5;
+	letter-spacing: normal;
+	color: #fff !important;
+}
+
+.know-more-link .material-icons {
+	position: absolute;
+}
+
+.contest-group {
+	background: #0b2742 url("../images/img-contest-banner.png") no-repeat center;
+	min-height: 550px;
+	background-size: cover;
+}
+
+.diamond-contest {
+	background: #0b2742;
+	min-height: 550px;
+	background-size: cover;
+}
+
+.contest-text {
+	padding: 80px 0 0 0;
+	font-size: 18px;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #fff;
+}
+
+.main-section {
+	position: relative;
+}
+
+.format {
+	margin: 81px 0;
+	color:#0b2742;
+}
+
+.menu-btn {
+	display: none;
+}
+
+.footer-info {
+	background: #fff;
+	padding-top: 57px;
+	border-top: 1px solid rgba(103, 119, 144, 0.5);
+	margin-top: 2.6em;
+}
+
+.footer-logo img {
+	/* width: 186px; */
+}
+
+.footer-privacy {
+	float: right;
+}
+
+.footer-menu, .footer-privacy {
+	margin-top: 5rem;
+}
+
+.footer-menu li, .footer-privacy li {
+	list-style: none;
+}
+
+.footer-menu li, .footer-privacy li {
+	display: inline-block;
+	margin: 0 10px;
+	font-family: 'Qualcomm Next';
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #4a5a75;
+}
+
+.footer-menu li:first-child {
+	margin-left: 0;
+}
+
+.footer-menu li a, .footer-privacy li a {
+	color: #4a5a75;
+	text-decoration: none;
+}
+
+.ref-text {
+	opacity: 0.4;
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	margin: 30px 0;
+	letter-spacing: normal;
+	color: #465a77;
+}
+
+.social-icons {
+	float: right;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}
+
+.ref-text p {
+	margin: 10px 0;
+}
+
+.social-icons li {
+	display: inline;
+	margin: 0 0 0 20px;
+}
+
+.social-icons li img {
+	width: 48px;
+	height: 48px;
+	object-fit: contain;
+}
+
+.close-menu {
+	display: none;
+}
+
+.team-actions-dropdown {
+	right: 20px;
+}
+
+.team-actions-dropdown .dropdown-content {
+	right: 0;
+}
+
+.svelte-modal {
+	position: fixed;
+	padding: 40px;
+	z-index: 9999;
+	left: 50%;
+	top: 50%;
+	width: 460px;
+	border-radius: 10px;
+	overflow: visible;
+	transform: translate(-50%,-50%);
+	background: white;
+}
+
+.modal-background {
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	-webkit-backdrop-filter: blur(5px);
+	backdrop-filter: blur(5px);
+	background-color: rgba(11, 39, 66, 0.8);
+	-webkit-overflow-scrolling: touch;
+
+}
+
+.mobile-bg {
+	display: none;
+	height: 280px;
+	width: 100%;
+	margin-top: 40px;
+	border-top: 1px solid rgba(11, 39, 66, 0.1);
+	padding-top: 40px;
+}
+
+.mobile-bg .bg-image {
+	background: rgba(131, 147, 170, 0.1) url("../images/img-survey-small.png") no-repeat center !important;
+	border-radius: 10px 10px 0 0;
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+}
+
+.in-game-qualifier .mobile-bg .bg-image {
+	background: rgba(131, 147, 170, 0.1) url("../images/img-m-char-igq.png") no-repeat center !important;
+	border-radius: 10px 10px 0 0;
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+}
+
+.brand-logo {
+	/* margin-top: 12px; */
+	display: inline-block;
+	color: #000000;
+}
+
+.brand-logo img {
+	/* width: 158px; */
+	/*height: 80px;*/
+}
+
+/* .menu {
+	margin-top: 30px;
+} */
+
+.menu li {
+	list-style: none;
+}
+
+.menu li {
+	display: inline-block;
+	margin: 0 12px;
+	font-family: 'Qualcomm Next';
+	font-size: 20px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #4a5a75;
+}
+
+.menu li a {
+	color: #4a5a75;
+	text-decoration: none;
+}
+
+.menu li a.active {
+	color: #3253dc;
+	font-family: 'Qualcomm Next Medium';
+}
+
+.profile-icon {
+	margin-top: 28px;
+	position: relative;
+	float: right;
+}
+
+.profile-btn span {
+	background: rgb(187, 192, 200);
+	font-size: 32px;
+	border-radius: 50%;
+	color: #fff;
+}
+
+.profile-btn.active span {
+	background: #3253dc;
+}
+
+.profile-btn.active span:hover {
+	background: rgb(50, 83, 220, 0.8);
+}
+
+.profile-btn span:hover {
+	background: rgb(103, 114, 131);
+}
+
+.profile-btn {
+	padding: 0px 4px;
+	display: flex;
+}
+
+.profile-btn strong {
+	/*display: none;*/
+	font-size: 20px;
+	margin-right: 10px;
+	color: #677790;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: right;
+}
+
+.menu {
+	display: inline-block;
+}
+
+.nav-section {
+	height: 56px;
+	box-shadow: 0 1px 0 0 rgba(11, 39, 66, 0.1);
+}
+
+.nav-section .nav {
+	padding-top: 20px;
+	justify-content: center;
+}
+
+.nav-section .nav .nav-link {
+	color: #677790;
+	padding: 0 20px;
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.5px;
+}
+
+.horizontal-list-container .skip-button.end {
+	right: 20% !important;
+}
+
+.menu-dropdown {
+	position: absolute;
+	width: 150px;
+	background: #fff;
+	z-index: 999;
+	top: 40px;
+	right: 12px;
+	border-radius: 5px 5px;
+}
+
+.menu-dropdown ul li {
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+}
+
+.menu-dropdown ul li:hover {
+	background: rgba(176, 199, 255, 0.2);
+}
+
+.menu-dropdown ul li a {
+	font-size: 12px;
+	display: block;
+	color: #677790;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: normal;
+	text-align: center;
+}
+
+.menu-dropdown .login-txt, .dnt-have-acnt-txt {
+	font-size: 16px;
+	font-family: 'Qualcomm Next Medium';
+	color: #4a5a75;
+}
+
+.menu-dropdown .plain-btn {
+	height: 40px;
+	display: block;
+	margin-bottom: 20px;
+	line-height: 36px;
+	padding: 0;
+}
+
+.enable-in-mobile {
+	display: none;
+}
+
+/*format styles*/
+.line {
+  width: 40%;
+  border-bottom: 5px solid #d8d8d8;
+  position: relative;
+  overflow: visible;
+  margin: 0 auto;
+  margin-bottom: 9.5em;
+}
+
+.line .circle-step {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  top: 50%;
+  left: 0%;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+
+.container.initial-active-area .circle-step.first-dot {
+  background: #E8E8E8;
+  border: 10px solid #16a085;
+}
+
+.container.initial-active-area .circle-step.first-dot {
+	left: calc(0% + 60px);
+}
+
+.line .circle-step.second-dot {
+  left: calc(50% - 30px);
+}
+
+.line .circle-step.third-dot {
+	left: 41%;
+}
+
+.line .circle-step.fourth-dot {
+  left: 61%;
+}
+
+.line .circle-step.fifth-dot {
+  left: 81%;
+}
+
+.line .circle-step.sixth-dot {
+  left: calc(100% - 60px);
+}
+
+.steps-wrapper {
+  width: 100%;
+  overflow: hidden;
+}
+
+.spacer-box {
+	height: 40px;
+}
+
+.round {
+	width: 60px;
+	background: #fff;
+	height: 60px;
+	border-radius: 50%;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	box-shadow: inset 0 0 4px 0 rgba(0, 0, 0, 0.3);
+	z-index: 99;
+}
+
+.round .inner-circle {
+	width: 48px;
+	height: 48px;
+	line-height: 48px;
+	text-align: center;
+	border-radius: 50%;
+	background-color: #fff;
+	box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.24);
+	margin: 6px 6px;
+}
+
+.social-links-top {
+	height: 80px;
+	/*display: none;*/
+	background: #ffffff;
+}
+
+.social-links-top h6 {
+	font-size: 12px;
+	padding-top: 15px;
+	margin: 0 0 6px 0;
+	/* color: #fff; */
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+}
+
+.social-links-top ul {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.social-links-top ul li {
+	list-style: none;
+	margin: 0 6px;
+}
+
+.menu-btn {
+	z-index: 9999;
+	/* margin-top: 28px; */
+	position: absolute;
+	border: none;
+	background: none;
+	outline: none !important;
+}
+
+.menu-btn svg {
+	min-height: 24px;
+	color: #677790;
+	transition: transform 0.3s ease-in-out;
+}
+
+.menu-btn svg line {
+	stroke: currentColor;
+	stroke-width: 2;
+	transition: transform 0.3s ease-in-out
+}
+
+.open svg {
+	transform: scale(0.7)
+}
+
+.open #top {
+	transform: translate(6px, 0px) rotate(45deg)
+}
+
+.open #middle {
+	opacity: 0;
+}
+
+.open #bottom {
+	transform: translate(-12px, 9px) rotate(-45deg)
+}
+
+.menuopen {
+	background: #fff;
+	margin-top: 0 !important;
+	position: fixed;
+	left: -15px;
+	right: -15px;
+	z-index: 9999;
+	top: 80px;
+	padding-top: 60px;
+	height: 100%;
+	transition: 0.3s;
+}
+
+.menuopen .menu li {
+	display: block;
+	width: 100%;
+}
+
+.other-videos-demand {
+	padding-bottom: 80px;
+}
+
+.format-page {
+	min-height: 785px;
+	width: 100% !important;
+	/* background: url("images/inner-banner.png") no-repeat center; */
+	background-size: cover;
+}
+
+.shadow-layer {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: 9;
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), #000000 92%);
+}
+
+.live-btn {
+	position: absolute;
+	z-index: 999;
+	padding: 0;
+	top: 20px;
+	left: 20px;
+	width: 97px;
+	height: 33px;
+	line-height: 33px;
+	border-radius: 16px;
+	background-color: #ff0000;
+	font-size: 16px;
+	font-weight: 500;
+	font-family: 'Qualcomm Next Medium';
+}
+
+.video-Carousel .card-play-btn {
+	width: 48px;
+	height: 48px;
+	left: 10%;
+	top: 40%;
+}
+
+.video-Carousel .card-play-btn span {
+	line-height: 50px;
+}
+
+.other-videos-demand .thumb-play-btn {
+	left: 10%;
+	width: 48px;
+	height: 48px;
+}
+
+.schedule-block .video-thumb {
+	height: 260px;
+}
+
+.other-videos-demand .thumb-play-btn span {
+	line-height: 49px;
+}
+
+.videos-section-page {
+	min-height: 559px;
+	width: 100% !important;
+	background: url("images/inner-banner.png") no-repeat center;
+	background-size: cover;
+	padding-bottom: 80px;
+}
+
+input[type=date], input[type=datetime-local], input[type=month], input[type=time] {
+	background: #fff;
+}
+
+.progress-info {
+	margin-top: 80px;
+	position: absolute;
+	min-width: 140px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.progress-info h6 {
+	font-size: 14px;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #0b2742;
+}
+
+.progress-info p {
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.33;
+	letter-spacing: normal;
+	text-align: center;
+	color: #1f1f1f;
+}
+
+.format-icon {
+	margin: -4px 4px 0 0;
+	display: inline-block;
+}
+
+.active-icon {
+	display: none;
+}
+
+.inner-circle .material-icons {
+	color: #8393aa;
+	line-height: inherit;
+}
+
+.active-state .progress-info h6 {
+	font-family: "Qualcomm Next Medium";
+	color: #3253dc;
+}
+
+.active-state .inner-circle .material-icons {
+	color: #ffffff;
+}
+
+.active-state .progress-info p {
+	color: #1f1f1f;
+}
+
+.vidoes-btn-section .plain-btn {
+	padding: 0;
+	line-height: 50px;
+}
+
+.question-title {
+	font-size: 24px;
+	font-family:'Qualcomm Next Medium';
+	letter-spacing: 0;
+	line-height: 25px;
+	color: #0b2742;
+}
+
+.minus-icon {
+	float: right;
+	color: rgba(103, 119, 144, 0.39) !important;
+	position: absolute;
+	right: 0;
+}
+
+.videos-section-title {
+	color: #0b2742;
+	margin-bottom: 0;
+	font-size: 24px;
+	letter-spacing: 0;
+	font-family: 'Qualcomm Next Medium';
+}
+
+.other-videos-demand .video-thumb {
+	margin: inherit;
+	margin-top: 40px;
+}
+
+.video-Carousel {
+	margin: 60px auto;
+	max-width: 1680px;
+	padding-left: 130px;
+	padding-right: 130px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.plus-icon {
+	position: absolute;
+	right: 0;
+}
+
+.calendar-box {
+	padding: 80px 0;
+}
+
+.tournamnet-title {
+	font-size: 42px;
+	color: #0b2742;
+	margin-bottom: 32px;
+	font-family: "Qualcomm Next Medium";
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+}
+
+.list-items {
+	margin-block-start: 0;
+	padding: 0;
+	margin-block-end: 1em;
+	margin-inline-start: 0;
+	margin-inline-end: 0px;
+	padding-inline-start: 40px;
+}
+
+.no-of-steps {
+	font-size: 18px;
+	font-family:'Qualcomm Next Medium';
+	letter-spacing: 0;
+	line-height: 27px;
+	color: #677790;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: normal;
+}
+
+.form-check input {
+	margin-top: 7px;
+}
+
+.form-check-label {
+	font-size: 18px;
+	padding-left: 6px;
+	margin-bottom: 20px;
+	color: #677790;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.5;
+	letter-spacing: normal;
+}
+
+.form-check-label a {
+	color: #3253dc;
+}
+
+.process-content {
+	padding-bottom: 40px;
+}
+
+.for-mobile-only {
+	display: none;
+}
+
+.for-mobile-only .banner-bttom {
+	display: none;
+}
+
+.for-mobile-only .line {
+	-webkit-box-orient: vertical!important;
+	align-items: center;
+	height: auto;
+	-webkit-box-direction: normal!important;
+	-ms-flex-direction: column!important;
+	flex-direction: column!important;
+	margin-bottom: 20px;
+}
+
+.for-mobile-only .line .circle-step::after {
+	content: "";
+	display: block;
+	position: absolute;
+	z-index: 1;
+	left: 66%;
+	top: 0;
+	bottom: 0;
+	border: 1px solid;
+	border-width: 0 0 0 5px;
+	height: 100%;
+	color: rgba(216, 216, 216, 0.5);
+	background: none;
+	transform: unset;
+	transform: translateX(-50%);
+}
+
+.for-mobile-only .progress-info {
+	margin-top: 0;
+	position: static;
+	min-width: 140px;
+	left: unset;
+	transform: translateX(0);
+	margin-left: 80px;
+	z-index: 9999;
+	position: relative;
+}
+
+.for-mobile-only .line .circle-step.first-dot {
+	margin-left: 0;
+	padding-left: 0;
+}
+
+.for-mobile-only .line .circle-step {
+	position: static;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	top: unset;
+	left: unset;
+	transform: translateY(0);
+	height: 100px;
+	min-width: 176px;
+}
+
+.for-mobile-only .progress-info h6 {
+    color: #0b2742 !important;
+    text-align: left !important;
+}
+
+.for-mobile-only  .progress-info p {
+    color: #1f1f1f !important;
+    text-align: left !important;
+}
+
+.for-mobile-only .active-state .progress-info h6 {
+    color: rgb(50, 83, 220) !important;
+}
+
+.for-mobile-only  .active-state .progress-info p {
+    color: #1f1f1f !important;
+}
+
+.for-mobile-only .format-title {
+	display: block;
+	margin-bottom: 20px;
+}
+
+.for-mobile-only .format {
+	margin-top: 20px;
+}
+
+.for-mobile-only .survey-link {
+	display: block;
+}
+
+.home-page .banner-bttom {
+	display: none !important;
+}
+
+.prize-inr-section .main-box {
+	border: 4px solid #6ec5d5;
+	padding-bottom: 40px;
+	border-top: none !important;
+	min-height: 439px;
+}
+
+.prize-inr-section h4 {
+	color: #fff;
+	margin-bottom: 26px;
+	font-size: 14px;
+	font-family:'Qualcomm Next Medium';
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: normal;
+	text-align: center;
+}
+
+.prize-postion {
+	color: #fff;
+	text-align: center;
+    margin-bottom: 40px;
+}
+
+.totle-price {
+	background: #6ec5d5;
+	font-family:'Qualcomm Next Medium';
+	margin-bottom: 20px;
+	height: 4px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.prize-txt {
+	font-size: 32px;
+	font-family:'Qualcomm Next Medium';
+	color: #fff;
+	text-align: center;
+	padding: 0 15px 0 15px;
+	border-left: 2px solid #d8d8d8;
+}
+
+.prize-txt span {
+	font-size: 14px;
+	font-family:'Qualcomm Next';
+	display: block;
+}
+
+.no-border {
+	border: none !important;
+}
+
+.totle-price span {
+	font-size: 32px;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #6ec5d5;
+	display: block;
+	z-index: 999;
+	position: relative;
+	background: #465a77;
+	padding: 0 15px;
+}
+
+.policy-text {
+	padding-bottom: 80px;
+}
+
+.policy p {
+	font-size: 14px;
+}
+
+.policy-name p {
+	font-size: 14px;
+}
+
+.policy-name h3 {
+	font-size: 32px;
+	margin-bottom: 26px;
+	font-family:'Qualcomm Next Medium';
+	color: #0b2742;
+}
+
+.policy-name ol li {
+	font-size: 14px;
+	padding-left: 6px;
+	margin-bottom: 15px;
+	line-height: 21px;
+	letter-spacing: 0;
+}
+
+.policy-name ul {
+	padding-left: 20px;
+}
+
+.policy-name ul li {
+	list-style: disc;
+}
+
+.policy-name ul a, .policy-name ul li {
+	font-size: 14px;
+	padding-left: 6px;
+	margin-bottom: 15px;
+	line-height: 21px;
+	letter-spacing: 0;
+}
+
+.policy-text {
+	padding-bottom: 80px;
+}
+
+.policy-name ol li {
+	font-size: 14px;
+	padding-left: 6px;
+	margin-bottom: 15px;
+	line-height: 21px;
+	letter-spacing: 0;
+}
+
+.menu-sec {
+	text-align: center;
+}
+
+.free-fire-block .cmg-txt {
+	font-size: 36px;
+	margin-bottom: 0;
+	margin-top: 40px;
+	letter-spacing: 1px;
+	color: #0b2742;
+	font-family:'Qualcomm Next Medium';
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 1px;
+	text-align: center;
+}
+
+.flw-txt {
+	font-size: 12px;
+	font-family:'Qualcomm Next';
+	margin-top: 20px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+}
+
+.logo-te {
+	margin: 10px 0;
+	text-align: center;
+}
+
+.logo-te p {
+	font-size: 10px;
+	opacity: 0.5;
+	font-family: Qualcomm Next;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+}
+
+.logo-te p a {
+	color: #0b2742 !important;
+}
+
+.logo-te p img {
+	max-width: 80px;
+}
+
+header {
+	height: 80px;
+	padding: 0 40px;
+	background: #fff;
+}
+
+.home-page-static .free-fire-logo {
+	margin-top: 40px;
+	padding-bottom: 40px;
+}
+
+.hindi-txt {
+	margin-top: 20px;
+}
+
+/* NEW STYLES FOR FINALS PAGE */
+
+.menu-sec {
+	display: flex;
+	justify-content: space-between;
+}
+.winnig-price {
+	margin: 62px 0;
+}
+
+.main-section .video-home-thumb .video-thumb {
+	width: 300px;
+	height: 170px;
+	box-shadow: 0px 0 20px -6px #000000;
+}
+
+.main-section .video-home-thumb  {
+	margin-top: 20px;
+}
+
+.main-section .video-home-thumb .play-btn {
+	width: 38px;
+	height: 38px;
+}
+
+.main-section .video-home-thumb .play-btn span {
+	line-height: 38px;
+	font-size: 24px;
+}
+
+.main-section .watch-finals-btn {
+	padding: 0.813rem 1.25rem;
+}
+
+.voting-container {
+	/* background: url("../images/img-bg-voting.png") no-repeat center; */
+	background-size: cover;
+	padding-bottom: 30px;
+	background: #0b2842;
+}
+
+.voting-container .vote-banner {
+	width: 100%;
+	margin: 20px 0 40px 0;
+	/* height: 200px; */
+	/* background: url("../images/img-voting.png") no-repeat center; */
+	/* background-size: cover; */
+}
+
+.vote-banner-mobile {
+	display: none;
+}
+
+.voting-team-container .title {
+	font-family: "Qualcomm Next Medium";
+	font-size: 18px;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #ffffff;
+}
+
+.voting-team-container .vote-for {
+	font-family: "Qualcomm Next Medium";
+	font-size: 2em;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #ffffff;
+	text-align: center;
+	margin-top: 1em;
+}
+
+.vote-dropdown .indicator {
+	top: 50% !important;
+	transform: translateY(-50%);
+}
+
+.vote-dropdown .selectContainer {
+	width: 85%;
+	height: 56px !important;
+	border-radius: 5px;
+}
+
+.vote-dropdown .item.active {
+	background: #3252dc !important;
+}
+.vote-dropdown .item {
+	text-transform: uppercase;
+}
+
+.vote-dropdown .selectContainer .selectedItem {
+	text-transform: uppercase;
+}
+
+.voting-team-container .vote-button { 
+	height: 50px;
+	margin: 30px 0 10px 0;
+	padding: 0.5rem 40px;
+}
+
+.voting-team-container .vote-success-btn {
+	background-color: transparent;
+	border: solid 1px #00ff00 !important;
+	color: #00ff00;
+	background-color: transparent !important;
+}
+
+.vote-success-message {
+	opacity: 1;
+	font-family: "Qualcomm Next";
+	font-size: 18px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #ffffff;
+	text-align: center;
+	margin-top: 2em;
+	/* padding-bottom: 20px; */
+}
+
+.vote-for-team {
+	border-right: 2px solid #4ab7ca;
+}
+
+.winning-teams {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 75%;
+	margin: 0 auto;
+}
+
+.win-team-content {
+	margin: 1em;
+}
+
+.team-place {
+	font-size: 1.3em;
+	font-weight: bold;
+}
+
+.fan-fav-title {
+	color: #ffffff;
+}
+
+.fan-fev-img {
+	text-align: center;
+}
+
+.fan-fev-img img{
+	width: 100%;
+	max-width: 40%;
+	margin-top: 0.6em;
+}
+
+.win-team-content img {
+	width: 100%;
+}
+
+.fan-fav-title {
+	font-size: 1.5em;
+	margin-top: 0.6em;
+}
+
+.vote-for-player {
+	position: relative;
+}
+
+.pahadi img{
+	max-width: 53%;
+}
+
+.s2-title-section {
+	position: absolute;
+    width: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.hero-image {
+	margin-top: 4em;
+    text-align: center;
+    position: relative;
+}
+
+.banner-s2-title {
+	margin-top: 3em;
+}
+
+.banner-s2-title h1, .banner-s2-title p {
+	color: #fff;
+	font-family: 'Qualcomm Next Medium';
+	width: 100%;
+}
+
+.banner-s2-title h1 {
+	font-size: 4em;
+}
+
+.banner-s2-title p {
+	margin-top: 1em;
+}
+
+.banner-s2-title p span {
+	color: #000000;
+    background: #ffffff;
+    padding: 0.5em 2em;
+    font-size: 1.5em;
+}
+
+/* .video-sec {
+	background:#081f35;
+} */
+
+.insider-container .top-section {
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+}
+
+.insider-container .video-sec {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+}
+
+.insider-content {
+	margin: 4em 0 10em 0;
+	color: #fff;
+}
+
+.insider-content h1 {
+	font-size: 3em;
+	font-family: "Qualcomm Next Medium";
+}
+
+.insider-content p {
+	max-width: 80%;
+	margin: 0 auto;
+	margin-bottom: 2em;
+	font-size: 1.2em;
+}
+
+.insider-container .insider-bottom-section {
+}
+
+.insider-bottom {
+	background-color: #ffffff;
+    border-radius: 0.5em;
+    margin-top: -2.2em;
+    text-align: center;
+    padding: 2em;
+    font-weight: bold;
+    box-shadow: 0px 0 13px -3px #000000;
+    margin-bottom: 1em;
+}
+
+.insider-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.sign-up-insider-btn {
+	background-color: #E04F4F;
+    padding: 12px 48px;
+    border-radius: 50px;
+    transition: background-color 0.7s cubic-bezier(0.23, 1, 0.32, 1) 0s, color 0.7s cubic-bezier(0.23, 1, 0.32, 1) 0s, border-color 0.7s cubic-bezier(0.23, 1, 0.32, 1) 0s, opacity 0.7s cubic-bezier(0.23, 1, 0.32, 1) 0s;
+	color: #fff;
+}
+
+.sign-up-insider-btn:hover {
+	color: #ffffff;
+}
+
+.insider-bottom p {
+	margin-bottom: 1em;
+	font-size: 1.2em;
+}
+
+.insider-bottom .social-links-top {
+	background: transparent;
+}
+
+.insider-bottom .social-links-top ul li {
+	background: #ffffff;
+}
+
+.insider-bottom .social-links-top {
+	height: auto;
+}
+
+.insider-mobile-video, .insider-pc-video {
+	background-position: right center;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.video-seemore {
+	/* background-color: rgb(50, 83, 220); */
+    color: #3253dc;
+	border: 1px solid #3253dc;
+    font-weight: bold;
+    text-align: center;
+    padding: 0.8em 2em;
+    max-width: 180px;
+    border-radius: 30em;
+    margin: 0 auto;
+    margin-top: 2em;
+	cursor: pointer;
+}
+
+.video-card {
+	width: 380px;
+	height: 215px;
+}
+
+.video-container:nth-child(even) .video-thumb {
+	float: right;
+}
+
+.video-container:nth-child(odd) .video-thumb {
+	float: left;
+}
+
+
+
+/* new S2 Styles */
+.signin-insider {
+	background-image: url(../images/img-bg-voting.png);
+	padding: 8em 0 3em 0;
+	text-align: center;
+}
+
+.signin-insider .title {
+	font-size: 2.938rem;
+	font-family: 'Qualcomm Next Medium';
+	color: #e04f4f;
+	text-align: center;
+	margin: 0 auto;
+	line-height: 1;
+	margin-bottom: 2em;
+}
+
+.signin-insider a {
+	font-size: 1.6em;
+    color: #e04f4f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.signin-insider a span {
+	font-size: 1.6em;
+}
+
+.s2-format {
+	width: 100%;
+	margin: 81px auto;
+}
+
+.prize-title {
+	position: relative;
+}
+
+.teams-and-standings {
+	min-height: auto;
+}
+
+.bottom-prize-box {
+	border-top: 1px solid #979797;
+    width: 68%;
+    margin: 0 auto;
+    padding-top: 2em;
+}
+
+.logo-click-card {
+	width: 140px;
+	height: 140px;
+	background: #d8d8d8;
+	border-radius: 10px;
+	border: 4px solid #e8e8e8;
+	margin: 0.4em;
+	float: left;
+	cursor: pointer;
+	overflow: hidden;
+}
+
+.teams-details {
+	margin-top: 4em;
+}
+
+.selected-team {
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #3253dc;
+	margin-top: -2em;
+}
+
+.team-logos-sec {
+	width: auto;
+	margin-bottom: 1em;
+}
+
+.team-player-sec {
+	width: 72%;
+	border-left: 1px solid #d8d8d8;
+}
+
+.points-table-title-area {
+	margin-top: 80px;
+}
+
+.team-player-sec  .media {
+	margin: 0.8em 0.4em;
+}
+
+
+.team-player-sec  .media:first-child {
+	margin-top: 0;
+}
+
+.team-player-sec  .media:last-child {
+	margin-bottom:0 ;
+}
+.table-section {
+	width: 40%;
+}
+
+
+.team-player-sec .ingame-name {
+	font-size: 16px;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #000000;
+	margin: 0;	
+}
+
+.team-player-sec  .actual-name, .team-player-sec .role {
+	font-size: 14px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #677790;
+	margin: 0;
+}
+
+.team-player-sec .role {
+	color: #000000;
+}
+
+.team-player-sec img {
+	width: 60px;
+	height: 60px;
+	background: #d8d8d8;
+	border-radius: 50%;
+}
+
+.team-player-sec .init-name {
+	width: 60px;
+	height: 60px;
+	background: #d8d8d8;
+	border-radius: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-right: 1rem;
+	font-size: 1.6em;
+	color: #3253dc;
+}
+
+.progress-bar-teams {
+	display: none;
+}
+
+.tab-btn {
+	background: none !important;
+	cursor: pointer;
+	border: none !important;
+	outline: none !important;
+	border-radius: 0;
+	margin: 0;
+	color: #677790;
+	margin: 0 20px;
+	font-size: 16px;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.5px;
+}
+
+.tab-btn:hover, .tab-btn.active {
+	color: #000;
+}
+
+.selected {
+	color: #000000;
+	font-family: "Qualcomm Next Medium";
+}
+
+.video-slide-container {
+	margin-left: 22%;
+	margin-bottom: 2em;
+	margin-top: 2.6em;
+}
+
+.recent-stream-title {
+	padding-left: 0.4em;
+}
+.swiper-container {
+	padding-bottom: 2em !important;
+	padding-top: 2em !important;
+}
+.video-slide-container .swiper-pagination-bullet {
+	border: 1px solid #3253dc;
+	background: transparent !important;
+}
+
+.video-slide-container .swiper-pagination-bullet-active {
+	background: #3253dc !important;
+}
+
+.swiper-pagination {
+	width: 80% !important;
+	bottom: 0 !important;
+}
+
+.swiper-button-next, .swiper-button-prev {
+	background: #ffffff !important;
+}
+
+.swiper-button-next:after, .swiper-button-prev:after {
+	font-size: 1em !important;
+}
+
+.swiper-button-next {
+	border-radius: 0.2em 0 0 0.2em !important;
+	right: 0px !important;
+}
+
+.swiper-button-prev {
+	border-radius: 0 0.2em 0.2em 0 !important;
+}
+
+.swiper-button-next.swiper-button-disabled, .swiper-button-prev.swiper-button-disabled {
+	opacity: 0 !important;
+}
+
+
+.vote-button[disabled] {
+	background-color: #cecece;
+}
+
+/* .profile-btn {
+	pointer-events: none;
+} */
+
+#launcher-frame {
+	display:none;
+}
+
+.format-page .title {
+	font-size: 42px;
+	font-family: 'Qualcomm Next Medium';
+	margin-bottom: 0;
+	text-align: center;
+	letter-spacing: 0;
+	/* color: #ffffff; */
+	padding: 24px 0 40px 0;
+}
+
+progress::-moz-progress-bar {
+    background: #969696;
+}
+
+progress::-webkit-progress-value {
+    background: #969696;
+}
+
+progress {
+    color: #969696;
+}
+
+progress[value]::-webkit-progress-bar {
+    background-color: #eee;
+    border-radius: 2px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+}
+
+progress {
+    width: 100%;
+    height: 4px;
+    background-color: #d8d8d8;
+    display: block;
+}
+
+.team-logos-sec::-webkit-scrollbar {
+    display: none;
+}
+
+.nav-section::-webkit-scrollbar {
+	display: none;
+}
+
+.next-prev-btns  {
+	width: 40%;
+	margin: 0 auto;
+}
+
+.swiper-slide {
+	-webkit-transform: translateZ(0);
+-webkit-backface-visibility: hidden;
+}
+
+.swiper-button-next, .swiper-button-prev {
+    position: absolute;
+    top: 50%;
+    width: calc(var(--swiper-navigation-size)/ 44 * 27);
+    height: var(--swiper-navigation-size);
+    margin-top: calc(0px - (var(--swiper-navigation-size)/ 2));
+    z-index: 10;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--swiper-navigation-color,var(--swiper-theme-color));
+}
+
+:root {
+    --swiper-navigation-size: 44px
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+    position       : absolute;
+    top            : 50%;
+    width          : calc(var(--swiper-navigation-size)/ 44 * 27);
+    height         : var(--swiper-navigation-size);
+    margin-top     : calc(0px - (var(--swiper-navigation-size)/ 2));
+    z-index        : 10;
+    cursor         : pointer;
+    display        : flex;
+    align-items    : center;
+    justify-content: center;
+    color          : var(--swiper-navigation-color, var(--swiper-theme-color))
+}
+
+.swiper-button-next.swiper-button-disabled,
+.swiper-button-prev.swiper-button-disabled {
+    opacity       : .35;
+    cursor        : auto;
+    pointer-events: none
+}
+
+.swiper-button-next:after,
+.swiper-button-prev:after {
+    font-family   : swiper-icons;
+    font-size     : var(--swiper-navigation-size);
+    text-transform: none !important;
+    letter-spacing: 0;
+    text-transform: none;
+    font-variant  : initial;
+    line-height   : 1
+}
+
+.swiper-button-prev,
+.swiper-container-rtl .swiper-button-next {
+    left : 0px;
+    right: auto
+}
+
+.swiper-button-prev:after,
+.swiper-container-rtl .swiper-button-next:after {
+    content: 'prev'
+}
+
+.swiper-button-next,
+.swiper-container-rtl .swiper-button-prev {
+    right: 10px;
+    left : auto
+}
+
+.swiper-button-next:after,
+.swiper-container-rtl .swiper-button-prev:after {
+    content: 'next'
+}
+
+.swiper-button-next.swiper-button-white,
+.swiper-button-prev.swiper-button-white {
+    --swiper-navigation-color: #ffffff
+}
+
+.swiper-button-next.swiper-button-black,
+.swiper-button-prev.swiper-button-black {
+    --swiper-navigation-color: #000000
+}
+
+.swiper-button-lock {
+    display: none
+}
+
+.swiper-pagination {
+    position  : absolute;
+    text-align: center;
+    transition: .3s opacity;
+    transform : translate3d(0, 0, 0);
+    z-index   : 10
+}
+
+.swiper-pagination.swiper-pagination-hidden {
+    opacity: 0
+}
+
+.swiper-container-horizontal>.swiper-pagination-bullets,
+.swiper-pagination-custom,
+.swiper-pagination-fraction {
+    bottom: 10px;
+    left  : 0;
+    width : 100%
+}
+
+.swiper-pagination-bullets-dynamic {
+    overflow : hidden;
+    font-size: 0
+}
+
+.swiper-pagination-bullets-dynamic .swiper-pagination-bullet {
+    transform: scale(.33);
+    position : relative
+}
+
+.swiper-pagination-bullets-dynamic .swiper-pagination-bullet-active {
+    transform: scale(1)
+}
+
+.swiper-pagination-bullets-dynamic .swiper-pagination-bullet-active-main {
+    transform: scale(1)
+}
+
+.swiper-pagination-bullets-dynamic .swiper-pagination-bullet-active-prev {
+    transform: scale(.66)
+}
+
+.swiper-pagination-bullets-dynamic .swiper-pagination-bullet-active-prev-prev {
+    transform: scale(.33)
+}
+
+.swiper-pagination-bullets-dynamic .swiper-pagination-bullet-active-next {
+    transform: scale(.66)
+}
+
+.swiper-pagination-bullets-dynamic .swiper-pagination-bullet-active-next-next {
+    transform: scale(.33)
+}
+
+.swiper-pagination-bullet {
+    width        : 8px;
+    height       : 8px;
+    display      : inline-block;
+    border-radius: 50%;
+    background   : #000;
+    opacity      : .2
+}
+
+button.swiper-pagination-bullet {
+    border            : none;
+    margin            : 0;
+    padding           : 0;
+    box-shadow        : none;
+    -webkit-appearance: none;
+    appearance        : none
+}
+
+.swiper-pagination-clickable .swiper-pagination-bullet {
+    cursor: pointer
+}
+
+.swiper-pagination-bullet:only-child {
+    display: none !important
+}
+
+.swiper-pagination-bullet-active {
+    opacity   : 1;
+    background: var(--swiper-pagination-color, var(--swiper-theme-color))
+}
+
+.swiper-container-vertical>.swiper-pagination-bullets {
+    right    : 10px;
+    top      : 50%;
+    transform: translate3d(0px, -50%, 0)
+}
+
+.swiper-container-vertical>.swiper-pagination-bullets .swiper-pagination-bullet {
+    margin : 6px 0;
+    display: block
+}
+
+.swiper-container-vertical>.swiper-pagination-bullets.swiper-pagination-bullets-dynamic {
+    top      : 50%;
+    transform: translateY(-50%);
+    width    : 8px
+}
+
+.swiper-container-vertical>.swiper-pagination-bullets.swiper-pagination-bullets-dynamic .swiper-pagination-bullet {
+    display   : inline-block;
+    transition: .2s transform, .2s top
+}
+
+.swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet {
+    margin: 0 4px
+}
+
+.swiper-container-horizontal>.swiper-pagination-bullets.swiper-pagination-bullets-dynamic {
+    left       : 50%;
+    transform  : translateX(-50%);
+    white-space: nowrap
+}
+
+.swiper-container-horizontal>.swiper-pagination-bullets.swiper-pagination-bullets-dynamic .swiper-pagination-bullet {
+    transition: .2s transform, .2s left
+}
+
+.swiper-container-horizontal.swiper-container-rtl>.swiper-pagination-bullets-dynamic .swiper-pagination-bullet {
+    transition: .2s transform, .2s right
+}
+
+.swiper-pagination-progressbar {
+    background: rgba(0, 0, 0, .25);
+    position  : absolute
+}
+
+.swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
+    background      : var(--swiper-pagination-color, var(--swiper-theme-color));
+    position        : absolute;
+    left            : 0;
+    top             : 0;
+    width           : 100%;
+    height          : 100%;
+    transform       : scale(0);
+    transform-origin: left top
+}
+
+.swiper-container-rtl .swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
+    transform-origin: right top
+}
+
+.swiper-container-horizontal>.swiper-pagination-progressbar,
+.swiper-container-vertical>.swiper-pagination-progressbar.swiper-pagination-progressbar-opposite {
+    width : 100%;
+    height: 4px;
+    left  : 0;
+    top   : 0
+}
+
+.swiper-container-horizontal>.swiper-pagination-progressbar.swiper-pagination-progressbar-opposite,
+.swiper-container-vertical>.swiper-pagination-progressbar {
+    width : 4px;
+    height: 100%;
+    left  : 0;
+    top   : 0
+}
+
+.swiper-pagination-white {
+    --swiper-pagination-color: #ffffff
+}
+
+.swiper-pagination-black {
+    --swiper-pagination-color: #000000
+}
+
+.swiper-pagination-lock {
+    display: none
+}
+
+::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(129, 128, 128, 0.3);
+	background-color: rgba(129, 128, 128, 0.3);
+} 
+
+::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: rgba(129, 128, 128, 0.3);
+}
+
+::-webkit-scrollbar-thumb
+{
+	background-color: rgb(28, 55, 165);
+    border-radius: 5px;
+}
