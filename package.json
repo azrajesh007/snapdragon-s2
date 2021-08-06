@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.11.6",
-    "@fullcalendar/daygrid": "^5.3.2",
+    "@fullcalendar/daygrid": "^5.9.0",
     "@rollup/plugin-commonjs": "^14.0.0",
     "@rollup/plugin-node-resolve": "^8.0.0",
     "postcss": "^7.0.36",
@@ -25,6 +25,9 @@
     "svelte-scrollto": "^0.2.0"
   },
   "dependencies": {
+    "@fullcalendar/core": "^5.9.0",
+    "@fullcalendar/interaction": "^5.9.0",
+    "@fullcalendar/timegrid": "^5.9.0",
     "body-scroll-lock": "^3.1.5",
     "bootstrap": "^4.5.2",
     "downloadjs": "^1.4.7",

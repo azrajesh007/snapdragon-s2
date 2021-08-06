@@ -1074,11 +1074,11 @@
 
 	.line {
 		width: 100%;
-		margin-bottom: 40px;
+		margin-bottom: 1em;
 		border: none;
 		display: flex;
 		overflow-x: auto;
-		height: 138px;
+		height: 168px;
 		overflow-y: hidden;
 	}
 
@@ -1099,7 +1099,7 @@
 	
 	.line .circle-step.first-dot {
 		margin-left: 14%;
-		padding-left: 8%;
+		/* padding-left: 8%; */
 	}
 
 	.line .circle-step::after {

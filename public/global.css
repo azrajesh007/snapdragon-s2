@@ -1,12 +1,12 @@
 * {
 	margin: 0;
 	padding: 0;
-	-webkit-font-smoothing: antialiased;
+	/* -webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	  -webkit-transition: all 0.30s ease-in-out;
   -moz-transition: all 0.30s ease-in-out;
   -ms-transition: all 0.30s ease-in-out;
-  -o-transition: all 0.30s ease-in-out;
+  -o-transition: all 0.30s ease-in-out; */
 }
 
 ol {
@@ -3369,3 +3369,14 @@ button.swiper-pagination-bullet {
 	background-color: rgb(28, 55, 165);
     border-radius: 5px;
 }
+/* Hide scrollbar for Chrome, Safari and Opera */
+.line::-webkit-scrollbar {
+	display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .line {
+	-ms-overflow-style: none;  /* IE and Edge */
+	scrollbar-width: none;  /* Firefox */
+	-ms-autohiding-scrollbar: none;
+  }

@@ -58,3 +58,7 @@
 	// } };
 </script>
 <FullCalendar {options} />
+
+<style>
+    
+</style>

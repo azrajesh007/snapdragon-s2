@@ -57,78 +57,7 @@ import TeamsAndStandings from './pages/TeamsAndStandings.svelte';
 	{/if}
 </svelte:head>
 <Router>
-	<!-- {#if isLive} -->
-		<!-- <Route path="/invite/:code" component={SaveInvite}/> -->
-		<!-- {#if !$user.first_name}
-			<Route path="/login" exact>
-				<BlankLayout>
-					<LoginPage />
-				</BlankLayout>
-			</Route>
-			<Route path="/dashboard">
-				<Redirect to="/../login"/>
-			</Route>
-			<Route path="/register">
-				<Redirect to="/../login"/>
-			</Route>
-		{:else}
-			{#if $user.role == 'admin'}
-				<Route path="/stats">
-					<Stats />
-				</Route>
-			{/if}
-			<Route path="/login">
-				<Redirect to="/../dashboard"/>
-			</Route>
-			<Route path="/register">
-				<Redirect to="/../dashboard"/>
-			</Route>
-			{#if !$user.city}
-				<Route path="/dashboard">
-					<BlankLayout>
-						<Location />
-					</BlankLayout>
-				</Route>
-			{:else if !$user.device_brand}
-				<Route path="/dashboard">
-					<BlankLayout>
-						<DeviceDetails />
-					</BlankLayout>
-				</Route>
-			{:else if !($user.accept_tnc && $user.reg_complete)}
-				<Route path="/dashboard">
-					<BlankLayout>
-						<CompleteRegistration/>
-					</BlankLayout>
-				</Route>
-			{:else}
-			<Route path="/dayzeroleader">
-				<DefaultLayout>
-					<DayZeroLeader />
-				</DefaultLayout>
-			</Route>
-			<Route path="/dashboard">
-				<DefaultLayout>
-					<UserDashboard />
-				</DefaultLayout>
-			</Route>
-			<Route path="/dashboard1">
-				<DefaultLayout>
-					<UserDashboardZerpPlayer />
-				</DefaultLayout>
-			</Route>
-			<Route path="/ingamequalifiers">
-				<DefaultLayout>
-					<InGameQualifiers />
-				</DefaultLayout>
-			</Route>
-			<Route path="/userdashboardplayoff">
-				<DefaultLayout>
-					<UserDashboardPlayoff />
-				</DefaultLayout>
-			</Route>
-			{/if}
-		{/if} -->
+
 		<Route path="/privacypolicy">
 			<DefaultLayout>
 				<PrivacyPolicy />
@@ -169,12 +98,7 @@ import TeamsAndStandings from './pages/TeamsAndStandings.svelte';
 				<Home />
 			</MainLayout>
 		</Route>
-		<!-- <Route path="/vote">
-			<MainLayout>
-				<Home />
-			</MainLayout>
-		</Route> -->
-		
+
 		<Route path="/format">
 			<MainLayout>
 				<FormatDetails />
@@ -195,25 +119,7 @@ import TeamsAndStandings from './pages/TeamsAndStandings.svelte';
 				<Videos />
 			</Inner>
 		</Route>
-		<!-- <Route path="/faqs">
-			<Inner>
-				<Faqs />
-			</Inner>
-		</Route> -->
 		
-		<!-- <Route path="/devon">
-			<DevTool/>
-		</Route>
-		<Route path="/devoff">
-			<DevTool/>
-		</Route> -->
-	<!-- {:else}
-		<Route path="/" exact>
-			<HomePage2Layout>
-				<HomePage2 />
-			</HomePage2Layout>
-		</Route>
-	{/if} -->
 	<Fallback>NotFound</Fallback>
 </Router>
 <ModalRenderer/>
