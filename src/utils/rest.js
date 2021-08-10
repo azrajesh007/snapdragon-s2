@@ -1,5 +1,5 @@
 //const baseURL = 'http://localhost:3000/';
-const baseURL = '';
+export const baseURL = 'http://localhost:1337/';
 // const baseURL = 'https://api.snapdragonconquest.com/';
 //const baseURL = 'https://api.conquestesports.in/';
 
@@ -7,6 +7,7 @@ import Toast from './toast';
 import { saveAs } from 'file-saver';
 import moment from 'moment';
 export class RESTClient{
+
     async get(url){
         let result = await fetch(baseURL+url, {
             method: 'GET',

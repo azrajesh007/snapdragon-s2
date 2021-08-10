@@ -3,6 +3,7 @@
 
 	.overflow-x {
 		overflow-x: auto;
+		-webkit-overflow-scrolling: touch;
 	}
 
 	.plain-btn {
@@ -657,12 +658,13 @@
 	}
 
 	.play-btn span {
-		font-size: 24px;
+		font-size: 22px;
 		line-height: 1.5;
 	}
 
 	.nav-section {
 		overflow-x: auto;
+		-webkit-overflow-scrolling: touch;
 		display: flex;
 		align-items: center;
         /* justify-content: center; */
@@ -672,6 +674,7 @@
 		display: contents !important;
 		display: inline-block;
 		overflow-x: auto;
+		-webkit-overflow-scrolling: touch;
 		white-space: nowrap;
 	}
 
@@ -777,20 +780,19 @@
     .teams-details {
         display: inherit !important;
         margin-top: 1em;
+		overflow: hidden;
     }
     
     .team-logos-sec {
         /* width: 100%; */
         overflow-x: auto;
-        display: -webkit-box;
-        display: -moz-box;
-        align-items: center;
-        white-space: nowrap;
+		-webkit-overflow-scrolling: touch;
+        display: -webkit-inline-flex;
+		display: inline-flex;
     }
 
     .team-player-sec {
         width: 100%;
-        float: left;
     }
 
     .selected-team {
@@ -811,7 +813,8 @@
     .logo-click-card {
         width: 103px;
         height: 103px;
-    }
+		position: relative;
+	}
      
 }
 
@@ -1078,6 +1081,7 @@
 		border: none;
 		display: flex;
 		overflow-x: auto;
+		-webkit-overflow-scrolling: touch;
 		height: 168px;
 		overflow-y: hidden;
 	}
@@ -1159,6 +1163,7 @@
 
     .team-logos-sec {
     overflow-x: auto;
+	-webkit-overflow-scrolling: touch;
     display: inline-block;
     align-items: center;
     white-space: inherit;
@@ -1267,6 +1272,7 @@
 
     .team-logos-sec {
     overflow-x: auto;
+	-webkit-overflow-scrolling: touch;
     display: inline-block;
     align-items: center;
     white-space: inherit;
@@ -1428,6 +1434,7 @@
 
     .team-logos-sec {
     overflow-x: auto;
+	-webkit-overflow-scrolling: touch;
     display: inline-block;
     align-items: center;
     white-space: inherit;
